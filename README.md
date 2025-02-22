@@ -8,7 +8,9 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+> Transforme solidariedade em ação: doe e faça a diferença na vida de um idoso.
+
+O projeto "Aconchego da Vovó" consiste no desenvolvimento de um site que conecta lares de idosos a doadores, facilitando a arrecadação de recursos e trazendo maior visibilidade para a qualidade de vida dos idosos.  
 
 ## Integrantes
 
