@@ -8,9 +8,13 @@ message: >-
   Web da PUC Minas.
 type: software
 authors:
-  - given-names: Aluno 1
-    family-names: Nome Completo
-    email: aluno@pucminas.br
+  - given-names: Raissa
+    family-names: Raissa Barbieri Fernandes Silva
+    email: raissa.barbieri@sga.pucminas.br
+    affiliation: PUC Minas
+  - given-names: Fabiana
+    family-names: Fabiana Martins do Prato
+    email: 1592061@sga.pucminas.br
     affiliation: PUC Minas
   - given-names: Hugo
     name-particle: 'B '
