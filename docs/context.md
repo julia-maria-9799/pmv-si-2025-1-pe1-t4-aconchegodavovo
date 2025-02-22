@@ -14,11 +14,11 @@ O objetivo deste trabalho é desenvolver um software que otimize e facilite as d
 
 Os objetivos específicos são:
 
- Desenvolver um software acessível e intuitivo.
+>Desenvolver um software acessível e intuitivo.
 
- Integrar ferramenta de gerenciamento das doações.
+>Integrar ferramenta de gerenciamento das doações.
 
- Implementar ferramenta de pagamentos.
+>Implementar ferramenta de pagamentos.
  
 ## Justificativa
 
