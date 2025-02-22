@@ -10,23 +10,21 @@ Além disso, o processo de doação muitas vezes é complexo e desorganizado, o 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo deste trabalho é desenvolver um software que otimize e facilite as doações para lares de idosos, tornando o processo mais eficiente, acessível e organizado. A proposta do sistema é conectar os doadores aos lares de idosos de uma maneira simples e organizada, dar visibilidade a estes lares e garantir que os recursos sejam devidamente alocados.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Os objetivos específicos são:
+
+ Desenvolver um software acessível e intuitivo.
+
+ Integrar ferramenta de gerenciamento das doações.
+
+ Implementar ferramenta de pagamentos.
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Com o crescimento da população idosa  e a necessidade de garantir sua qualidade de vida, torna-se essencial a busca por soluções inovadoras. De acordo com a CNSaúde, atualmente 70% dos lares de idosos operam com déficit financeiro e dependem de doações para continuar operando. Entretanto, a falta de transparência e organização dificulta a captação de recursos e pode-se dizer que afasta potenciais doadores. 
 
-Lembre-se de pesquisar e utilizar números que justifiquem por que é importante que tal problema seja resolvido ou que mostrem o impacto do problema na vida das pessoas.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Pesquisas feitas pela ABCR mostram que plataformas digitais podem aumentar doações em até 40%, porém muitos desses lares de idosos não possuem ferramentas adequadas. Por esse motivo, a criação de um software de gerenciamento de doações se torna necessário para incentivar doações e garantir transparência sobre como o dinheiro será investido e, consequentemente, gerar um impacto positivo na vida dos idosos. 
 
 ## Público-Alvo
 
