@@ -28,14 +28,6 @@ Pesquisas feitas pela IDIS indicam que novas abordagens de doação, como platar
 
 ## Público-Alvo
 
-O software proposto visa a atender o seguinte público-alvo:
-
->Administradores de Lares de Idosos: Responsáveis pela gestão administrativa e financeira das instituições. Embora possuam conhecimentos em tecnologia, necessitam de interfaces intuitivas e suporte técnico para a adoção eficaz do sistema. Este grupo é predominantemente masculino, com idades entre 35 e 45 anos.
-
->Familiares de Idosos Residentes: Parentes que buscam informações e desejam contribuir para a instituição onde o familiar reside. Este grupo apresenta ampla diversidade em termos de idade e familiaridade com tecnologia, sendo composto por indivíduos de ambos os sexos.
-
->Potenciais Doadores: Indivíduos ou instituições interessados em contribuir financeiramente ou com recursos materiais para os lares de idosos. Este grupo é heterogêneo, abrangendo desde pessoas físicas com diferentes níveis de conhecimento tecnológico até empresas e organizações não governamentais que apoiam causas sociais. Os doadores são geralmente maiores de 18 anos.
- 
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
