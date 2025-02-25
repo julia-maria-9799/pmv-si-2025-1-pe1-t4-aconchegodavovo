@@ -1,6 +1,6 @@
 # Introdução
 
-O envelhecimento da população tem se tornado um desafio crescente em muitas sociedades, sendo necessário garantir que os idosos recebam o apoio e o cuidado que merecem. Segundo o IBGE, no Brasil em 2022, 161 mil pessoas residiam em casas de repouso.
+O envelhecimento da população tem se tornado um desafio crescente em muitas sociedades, sendo necessário garantir que os idosos recebam o apoio e o cuidado que merecem. Segundo o IBGE, no Brasil em 2022, 161 mil pessoas residiam em casas de repouso e esse número tende a aumentar cada vez mais.
 
 ## Problema
 
