@@ -22,12 +22,20 @@ Os objetivos específicos são:
  
 ## Justificativa
 
-Com o crescimento da população idosa  e a necessidade de garantir sua qualidade de vida, torna-se essencial a busca por soluções inovadoras. De acordo com a CNSaúde, atualmente 70% dos lares de idosos operam com déficit financeiro e dependem de doações para continuar operando. Entretanto, a falta de transparência e organização dificulta a captação de recursos e pode-se dizer que afasta potenciais doadores. 
+Com o crescimento da população idosa  e a necessidade de garantir sua qualidade de vida, torna-se essencial a busca por soluções inovadoras. De acordo com um estudo publicado pela Revista Latino-Americana de Enfermagem destaca que a função das ILPIs inclui assistir idoso sem vínculo familiar ou sem condições de prover seu próprio sustento, o que reforça a necessidade de apoio financeiro externo. Entretanto, a falta de transparência e organização dificulta a captação de recursos e pode-se dizer que afasta potenciais doadores. 
 
-Pesquisas feitas pela ABCR mostram que plataformas digitais podem aumentar doações em até 40%, porém muitos desses lares de idosos não possuem ferramentas adequadas. Por esse motivo, a criação de um software de gerenciamento de doações se torna necessário para incentivar doações e garantir transparência sobre como o dinheiro será investido e, consequentemente, gerar um impacto positivo na vida dos idosos. 
+Pesquisas feitas pela IDIS indicam que novas abordagens de doação, como platarfomas digitais, têm se consolidado no Brasil, facilitando contribuiçoes mais frequentes e acessíveis, porém muitos desses lares de idosos não possuem ferramentas adequadas. Por esse motivo, a criação de um software de gerenciamento de doações se torna necessário para incentivar doações e garantir transparência sobre como o dinheiro será investido e, consequentemente, gerar um impacto positivo na vida dos idosos. 
 
 ## Público-Alvo
 
+O software proposto visa a atender o seguinte público-alvo:
+
+>Administradores de Lares de Idosos: Responsáveis pela gestão administrativa e financeira das instituições. Embora possuam conhecimentos em tecnologia, necessitam de interfaces intuitivas e suporte técnico para a adoção eficaz do sistema. Este grupo é predominantemente masculino, com idades entre 35 e 45 anos.
+
+>Familiares de Idosos Residentes: Parentes que buscam informações e desejam contribuir para a instituição onde o familiar reside. Este grupo apresenta ampla diversidade em termos de idade e familiaridade com tecnologia, sendo composto por indivíduos de ambos os sexos.
+
+>Potenciais Doadores: Indivíduos ou instituições interessados em contribuir financeiramente ou com recursos materiais para os lares de idosos. Este grupo é heterogêneo, abrangendo desde pessoas físicas com diferentes níveis de conhecimento tecnológico até empresas e organizações não governamentais que apoiam causas sociais. Os doadores são geralmente maiores de 18 anos.
+ 
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
