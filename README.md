@@ -14,12 +14,12 @@ O projeto "Aconchego da Vovó" consiste no desenvolvimento de um site que conect
 
 ## Integrantes
 
-* Rafael Simões Amaral
-* Camila Santos Gomes
-* Raissa Barbieri Fernandes Silva
-* Júlia Maria Coutinho Corrêa
 * Brenda Linhares Freitas
+* Camila Santos Gomes
 * Fabiana Martins do Prato
+* Júlia Maria Coutinho Corrêa
+* Rafael Simões Amaral
+* Raissa Barbieri Fernandes Silva
 
 
 ## Orientador
