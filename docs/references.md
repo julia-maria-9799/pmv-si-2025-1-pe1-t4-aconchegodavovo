@@ -1,19 +1,14 @@
 # Referências
 
-Inclua todas as referências (livros, artigos, sites, etc) utilizadas no desenvolvimento do trabalho.
 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/referencias/)
+BRASIL. Lei nº 11.551, de 19 de novembro de 2007. Dispõe sobre a duração, a conservação e a obrigatoriedade da guarda dos documentos fiscais que menciona. Disponível em: https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-11-19;11551. Acesso em: 28 fev. 2025.
 
-Exemplos de referências bibliográficas:
+BRASIL. Lei nº 10.741, de 1 de outubro de 2003. Dispõe sobre o Estatuto do Idoso e dá outras providências. Disponível em: https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741. Acesso em: 28 fev. 2025.
 
-**[1]** - _ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados**. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001._
+IBGE. 837 mil pessoas viviam em domicílios coletivos segundo o Censo 2022. Disponível em: https://educa.ibge.gov.br/jovens/materias-especiais/22538-837-mil-pessoas-viviam-em-domicilios-coletivos-segundo-o-censo-2022.html. Acesso em: 28 fev. 2025.
 
-**[2]** - _COPPIN, Ben. **Inteligência artificial**. Rio de Janeiro, RJ: LTC, c2010. E-book. ISBN 978-85-216-2936-8._
+G1 Bahia. Lar de idosos é fechado na BA. 10 dez. 2024. Disponível em: https://g1.globo.com/ba/bahia/noticia/2024/12/10/lar-de-idosos-e-fechado-na-ba.ghtml. Acesso em: 28 fev. 2025.
 
-**[3]** - _CORMEN, Thomas H. et al. **Algoritmos: teoria e prática**. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996._
+G1 Rio Grande do Sul. Asilo interditado em Canoas. 27 set. 2024. Disponível em: https://g1.globo.com/rs/rio-grande-do-sul/noticia/2024/09/27/asilo-interditado-canoas.ghtml. Acesso em: 28 fev. 2025.
 
-**[4]** - _SUTHERLAND, Jeffrey Victor. **Scrum: a arte de fazer o dobro do trabalho na metade do tempo**. 2. ed. rev. São Paulo, SP: Leya, 2016. 236, [4] p. ISBN 9788544104514._
-
-**[5]** - _RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial**. Rio de Janeiro: Elsevier, c2013. xxi, 988 p. ISBN 9788535237016._
-
+Maringá Post. Justiça apura denúncia de abuso sexual contra idoso de 70 anos em asilo de Maringá. 5 dez. 2024. Disponível em: https://maringapost.com.br/destaque/2024/12/05/justica-apura-denuncia-de-abuso-sexual-contra-idoso-de-70-anos-em-asilo-de-maringa/. Acesso em: 28 fev. 2025.
