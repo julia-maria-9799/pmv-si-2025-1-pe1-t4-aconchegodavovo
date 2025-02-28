@@ -8,7 +8,9 @@ Para enfrentar esses desafios, propomos o desenvolvimento de um software que fac
 
 ## Problema
 
-A dificuldade enfrentada pelos lares de idosos em obter recursos financeiros suficientes para garantir a qualidade de vida dos idosos acolhidos é um problema constante. Muitas dessas instituições enfrentam desafios econômicos, com gastos com a infraestrutura, alimentação, cuidados médicos e atividades de lazer. A escassez de doações e a falta de visibilidade das necessidades desses lares dificultam a arrecadação de recursos essenciais. 
+De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), o número de idosos em nosso país aumentou em 57,4% nos últimos doze anos. Consequentemente, ao longo de uma década, o total de idosos acolhidos em instituições conveniadas aos estados e municípios cresceu 65% no Brasil, passando de 40,6 mil em 2012 para 67,2 mil em 2022.
+
+A dificuldade enfrentada pelos lares de idosos em obter recursos financeiros suficientes para garantir a qualidade de vida dos idosos acolhidos é um problema constante. Muitas dessas instituições enfrentam desafios econômicos, com gastos com a infraestrutura, alimentação, cuidados médicos e atividades de lazer. A escassez de doações e a falta de visibilidade das necessidades desses lares dificultam a arrecadação de recursos essenciais.
 
 Além disso, o processo de doação muitas vezes é complexo e desorganizado, o que pode desencorajar possíveis doadores, dificultando o acesso aos recursos necessários para as instituições.
 
