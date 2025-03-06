@@ -4,7 +4,7 @@ O envelhecimento da população tem se tornado um desafio crescente em muitas so
 
 Entretanto, muitas dessas instituições enfrentão dificuldades financeiras, precisando de doações, apoio e visibilidade adequados. Além disso, o número de denúncias de abandono de idosos aumentou 855% entre janeiro e maio de 2023, somando quase 20 mil casos nesse período, conforme dados do Minestério dos Direitos Humanos e Cidadania.
 
-Para enfrentar esses desafios, propomos o desenvolvimento de um software que facilite as doações para lares de idosos, proporcionando transparência sobre a aplicação dos recursos recebidos. A plataforma conectará doadores às instituições de forma simples, assegurando que as contribuições sejam direcionadas de forma eficiente e eficaz.
+Para enfrentar esses desafios, propomos o desenvolvimento de um software que facilite as doações para lares de idosos, proporcionando transparência sobre a aplicação dos recursos recebidos. A plataforma conectará doadores às instituições de forma simples, assegurando que as contribuições sejam direcionadas de forma eficiente.
 
 ## Problema
 
