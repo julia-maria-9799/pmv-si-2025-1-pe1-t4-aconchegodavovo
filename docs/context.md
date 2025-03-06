@@ -2,7 +2,7 @@
 
 O envelhecimento da população tem se tornado um desafio crescente em muitas sociedades, sendo necessário garantir que os idosos recebam o apoio, cuidado e sociabilidade que merecem. Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), no Brasil em 2022, 161 mil pessoas residiam em casas de repouso e esse número tende a aumentar cada vez mais, pois projeções do IBGE indicam que, até 2070, o Brasil poderá ter cerca de 75,3 milhões de idosos.
 
-Entretanto, muitas dessas instituições enfrentão dificuldades financeiras, precisando de auxílio financeiro, apoio e visibilidade adequados. Além disso, o número de denúncias de abandono de idosos aumentou 855% entre janeiro e maio de 2023, somando quase 20 mil casos nesse período, conforme dados do Minestério dos Direitos Humanos e Cidadania.
+Entretanto, muitas dessas instituições enfrentão dificuldades financeiras, precisando de auxílio financeiro, apoio e visibilidade adequados. Uma pesquisa feita pela UFRGS (Universidade Federal do Rio Grande do Sul) em 2024 revelou que, embora muitas ILPIs consigam se manter, metade dos gestores e responsáveis técnicos dessas instituições consideram o financiamento insuficiente para cobrir todos os custos necessários para garantir o atendimento adequado. A principal fonte de recursos ainda são as doações da comunidade, pois os recursos do governo representam uma parcela pouco expressiva.
 
 Para enfrentar esses desafios, propomos o desenvolvimento de um software que facilite as doações para lares de idosos, proporcionando transparência sobre a aplicação dos recursos recebidos. A plataforma conectará doadores às instituições de forma simples, assegurando que as contribuições sejam direcionadas de forma eficiente.
 
