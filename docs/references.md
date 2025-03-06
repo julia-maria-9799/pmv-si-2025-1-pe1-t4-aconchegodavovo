@@ -1,8 +1,6 @@
 # Referências
 
 
-BRASIL. Lei nº 11.551, de 19 de novembro de 2007. Dispõe sobre a duração, a conservação e a obrigatoriedade da guarda dos documentos fiscais que menciona. Disponível em: https://normas.leg.br/?urn=urn:lex:br:federal:lei:2007-11-19;11551. Acesso em: 28 fev. 2025.
-
 BRASIL. Lei nº 10.741, de 1 de outubro de 2003. Dispõe sobre o Estatuto do Idoso e dá outras providências. Disponível em: https://normas.leg.br/?urn=urn:lex:br:federal:lei:2003-10-01;10741. Acesso em: 28 fev. 2025.
 
 IBGE. 837 mil pessoas viviam em domicílios coletivos segundo o Censo 2022. Disponível em: https://educa.ibge.gov.br/jovens/materias-especiais/22538-837-mil-pessoas-viviam-em-domicilios-coletivos-segundo-o-censo-2022.html. Acesso em: 28 fev. 2025.
