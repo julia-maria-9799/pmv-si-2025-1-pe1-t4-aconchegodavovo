@@ -1,6 +1,6 @@
 # Introdução
 
-O envelhecimento da população tem se tornado um desafio crescente em muitas sociedades, sendo necessário garantir que os idosos recebam o apoio, cuidado e sociabilidade que merecem. Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), no Brasil em 2022, 161 mil pessoas residiam em casas de repouso e esse número tende a aumentar cada vez mais, pois projeções do IBGE indicam que, até 2070, o Brasil poderá ter cerca de 75,3 milhões de idosos.
+O envelhecimento da população tem se tornado um desafio crescente em muitas sociedades, sendo necessário garantir que os idosos recebam o apoio, cuidado e sociabilidade que merecem. Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), no Brasil em 2022, 160 mil pessoas residiam em casas de repouso e esse número tende a aumentar cada vez mais, pois projeções do IBGE indicam que, até 2070, o Brasil poderá ter cerca de 75,3 milhões de idosos.
 
 Entretanto, muitas dessas instituições enfrentão dificuldades financeiras, precisando de auxílio financeiro, apoio e visibilidade adequados. Uma pesquisa feita pela UFRGS (Universidade Federal do Rio Grande do Sul) em 2024 revelou que, embora muitas ILPIs consigam se manter, metade dos gestores e responsáveis técnicos dessas instituições consideram o financiamento insuficiente para cobrir todos os custos necessários para garantir o atendimento adequado. A principal fonte de recursos ainda são as doações da comunidade, pois os recursos do governo representam uma parcela pouco expressiva.
 
