@@ -1,6 +1,6 @@
 # Introdução
 
-O envelhecimento da população tem se tornado um desafio crescente em muitas sociedades, sendo necessário garantir que os idosos recebam o apoio, cuidado e sociabilidade que merecem. Segundo o IBGE, no Brasil em 2022, 161 mil pessoas residiam em casas de repouso e esse número tende a aumentar cada vez mais com o passar do tempo.
+O envelhecimento da população tem se tornado um desafio crescente em muitas sociedades, sendo necessário garantir que os idosos recebam o apoio, cuidado e sociabilidade que merecem. Segundo o IBGE, no Brasil em 2022, 161 mil pessoas residiam em casas de repouso e esse número tende a aumentar cada vez mais com o passar do tempo, pois projeções do IBGE indicam que, até 2070 o Brasil poderá ter 75,3 milhões de idosos.
 
 Entretanto, muitas dessas instituições enfrentão dificuldades financeiras, precisando de doações, apoio e visibilidade adequados. Além disso, o número de denúncias de abandono de idosos aumentou 855% entre janeiro e maio de 2023, somando quase 20 mil casos nesse período, conforme dados do Minestério dos Direitos Humanos e Cidadania.
 
