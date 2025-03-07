@@ -6,7 +6,7 @@ AGÊNCIA BRASIL. População do país vai parar de crescer em 2041. Agência Bra
 
 SILVA, Henrique Salmazo. O envelhecimento populacional e suas implicações sociais e econômicas: um estudo sobre as políticas públicas no Brasil. Revista Envelhecer, 2024. Disponível em: https://seer.ufrgs.br/index.php/RevEnvelhecer/article/view/139729. Acesso em: 25 fev. 2025.
 
-UOL. Abrigos públicos para idosos. UOL, 2024. Disponível em: https://www.uol.com.br/vivabem/reportagens-especiais/abrigos-publicos-para-idosos/#page13. Acesso em: 1 mar. 2025.
+PINA, Rute. Abrigos públicos para idosos. UOL, São Paulo, 2024. Disponível em: https://www.uol.com.br/vivabem/reportagens-especiais/abrigos-publicos-para-idosos/#page13. Acesso em: 1 mar. 2025.
 
 SECRETARIA DE COMUNICAÇÃO SOCIAL DA PRESIDÊNCIA DA REPÚBLICA (SECOM). Censo 2022: Número de idosos na população do país cresceu 57,4% em 12 anos. SECOM, 2023. Disponível em: https://www.gov.br/secom/pt-br/assuntos/noticias/2023/10/censo-2022-numero-de-idosos-na-populacao-do-pais-cresceu-57-4-em-12-anos. Acesso em: 1 mar. 2025.
 
