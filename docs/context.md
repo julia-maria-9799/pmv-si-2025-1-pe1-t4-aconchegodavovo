@@ -2,7 +2,7 @@
 
 O envelhecimento da população tem se tornado um desafio crescente em muitas sociedades, sendo necessário garantir que os idosos recebam o apoio, cuidado e sociabilidade que merecem. Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), no Brasil em 2022, 161 mil pessoas residiam em casas de repouso e esse número tende a aumentar cada vez mais, pois projeções do IBGE indicam que, até 2070, o Brasil poderá ter cerca de 75,3 milhões de idosos.
 
-Entretanto, muitas dessas instituições enfrentão dificuldades financeiras, precisando de auxílio financeiro, apoio e visibilidade adequados. Uma pesquisa feita pela UFRGS (Universidade Federal do Rio Grande do Sul) em 2024 revelou que, embora muitas ILPIs (Instituições de Longa Permanência para Idosos) consigam se manter, metade dos gestores e responsáveis técnicos dessas instituições consideram os recursos financeiros insuficiente para cobrir todos os custos necessários para garantir o atendimento adequado. A principal fonte de recursos ainda são as doações da comunidade, pois os recursos do governo representam uma parcela pouco expressiva.
+Entretanto, muitas dessas instituições enfrentam dificuldades financeiras, precisando de auxílio financeiro, apoio e visibilidade adequados. Uma pesquisa feita pela UFRGS (Universidade Federal do Rio Grande do Sul) em 2024 revelou que, embora muitas ILPIs (Instituições de Longa Permanência para Idosos) consigam se manter, metade dos gestores e responsáveis técnicos dessas instituições consideram os recursos financeiros insuficiente para cobrir todos os custos necessários para garantir o atendimento adequado. A principal fonte de recursos ainda são as doações da comunidade, pois os recursos do governo representam uma parcela pouco expressiva.
 
 Para enfrentar esses desafios, propomos o desenvolvimento de um software que facilite as doações para lares de idosos, proporcionando transparência sobre a aplicação dos recursos recebidos. A plataforma conectará doadores às instituições de forma simples, assegurando que as contribuições sejam direcionadas de forma eficiente.
 
@@ -22,7 +22,7 @@ Os objetivos específicos são:
 
 >Desenvolver um software acessível e intuitivo.
 
->Integrar ferramenta de gerenciamento das doações.
+>Integrar ferramentas de gerenciamento das doações.
 
 >Implementar ferramenta de pagamentos.
  
@@ -30,7 +30,7 @@ Os objetivos específicos são:
 
 Com o crescimento da população idosa  e a necessidade de garantir sua qualidade de vida, torna-se essencial a busca por soluções inovadoras. De acordo com um estudo publicado pela Revista Latino-Americana de Enfermagem destaca que a função das ILPIs inclui assistir idoso sem vínculo familiar ou sem condições de prover seu próprio sustento, o que reforça a necessidade de apoio financeiro externo. Entretanto, a falta de transparência e organização dificulta a captação de recursos e pode-se dizer que afasta potenciais doadores. 
 
-Pesquisas feitas pela IDIS (Instituto para o Desenvolvimento do Investimento Social) indicam que novas abordagens de doação, como platarfomas digitais, têm se consolidado no Brasil, facilitando contribuições mais frequentes e acessíveis, porém muitos desses lares de idosos não possuem ferramentas adequadas. Por esse motivo, a criação de um software de gerenciamento de doações se torna necessário para incentivar as contribuições e garantir credibilidade sobre como o dinheiro será investido e, consequentemente, gerar um impacto positivo na vida dos idosos. 
+Pesquisas feitas pela IDIS (Instituto para o Desenvolvimento do Investimento Social) indicam que novas abordagens de doação, como plataformas digitais, têm se consolidado no Brasil, facilitando contribuições mais frequentes e acessíveis, porém muitos desses lares de idosos não possuem ferramentas adequadas. Por esse motivo, a criação de um software de gerenciamento de doações se torna necessário para incentivar as contribuições e garantir credibilidade sobre como o dinheiro será investido e, consequentemente, gerar um impacto positivo na vida dos idosos. 
 
 ## Público-Alvo
 
