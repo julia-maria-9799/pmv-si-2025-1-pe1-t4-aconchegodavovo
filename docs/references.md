@@ -4,7 +4,7 @@ INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). IBGE revela que ao meno
 
 AGÊNCIA BRASIL. População do país vai parar de crescer em 2041. Agência Brasil, 2024. Disponível em: https://agenciagov.ebc.com.br/noticias/202408/populacao-do-pais-vai-parar-de-crescer-em-2041#:~:text=milh%C3%B5es%2C%20no%20per%C3%ADodo.-,Em%202070%2C%20cerca%20de%2037%2C8%25%20dos%20habitantes%20do,35%2C5%20anos%20em%202023. Acesso em: 25 fev. 2025.
 
-SOUZA, R. M. O envelhecimento populacional e suas implicações sociais e econômicas: um estudo sobre as políticas públicas no Brasil. Revista Envelhecer, 2024. Disponível em: https://seer.ufrgs.br/index.php/RevEnvelhecer/article/view/139729. Acesso em: 25 fev. 2025.
+SILVA, Henrique Salmazo. O envelhecimento populacional e suas implicações sociais e econômicas: um estudo sobre as políticas públicas no Brasil. Revista Envelhecer, 2024. Disponível em: https://seer.ufrgs.br/index.php/RevEnvelhecer/article/view/139729. Acesso em: 25 fev. 2025.
 
 UOL. Abrigos públicos para idosos. UOL, 2024. Disponível em: https://www.uol.com.br/vivabem/reportagens-especiais/abrigos-publicos-para-idosos/#page13. Acesso em: 1 mar. 2025.
 
