@@ -12,4 +12,4 @@ SECRETARIA DE COMUNICAÇÃO SOCIAL DA PRESIDÊNCIA DA REPÚBLICA (SECOM). Censo 
 
 INSTITUTO PARA O DESENVOLVIMENTO DO INVESTIMENTO SOCIAL (IDIS). Pesquisa global detalha as tendências em práticas de doações digitais e modelos inovadores em oito países. IDIS, 2024. Disponível em: https://www.idis.org.br/pesquisa-global-detalha-as-tendencias-em-praticas-de-doacoes-digitais-e-modelos-inovadores-em-oito-paises/. Acesso em: 22 fev. 2025.
 
-GONÇALVES, J. F. Ações de saúde e assistência social para o idoso em tempos de pandemia: reflexões sobre a prática do cuidado no Brasil. Revista Latino-Americana de Enfermagem, 2024. Disponível em: https://www.scielo.br/j/rlae/a/6QRVJzrMvqQ4TSjV4mXR6xq/?format=pdf&lang=pt. Acesso em: 22 fev. 2025.
+CREUTZBERG, Marion; GONÇALVES, Lúcia Hisako Takase; SOBOTTKA, Emil Albert. Ações de saúde e assistência social para o idoso em tempos de pandemia: reflexões sobre a prática do cuidado no Brasil. Revista Latino-Americana de Enfermagem, 2024. Disponível em: https://www.scielo.br/j/rlae/a/6QRVJzrMvqQ4TSjV4mXR6xq/?format=pdf&lang=pt. Acesso em: 22 fev. 2025.
