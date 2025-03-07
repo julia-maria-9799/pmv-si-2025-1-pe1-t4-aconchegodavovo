@@ -30,7 +30,7 @@ Os objetivos específicos são:
 
 Com o crescimento da população idosa  e a necessidade de garantir sua qualidade de vida, torna-se essencial a busca por soluções inovadoras. De acordo com um estudo publicado pela Revista Latino-Americana de Enfermagem destaca que a função das ILPIs inclui assistir idoso sem vínculo familiar ou sem condições de prover seu próprio sustento, o que reforça a necessidade de apoio financeiro externo. Entretanto, a falta de transparência e organização dificulta a captação de recursos e pode-se dizer que afasta potenciais doadores. 
 
-Pesquisas feitas pela IDIS (Instituto para o Desenvolvimento do Investimento Social) indicam que novas abordagens de doação, como platarfomas digitais, têm se consolidado no Brasil, facilitando contribuiçoes mais frequentes e acessíveis, porém muitos desses lares de idosos não possuem ferramentas adequadas. Por esse motivo, a criação de um software de gerenciamento de doações se torna necessário para incentivar as contribuições e garantir credibilidade sobre como o dinheiro será investido e, consequentemente, gerar um impacto positivo na vida dos idosos. 
+Pesquisas feitas pela IDIS (Instituto para o Desenvolvimento do Investimento Social) indicam que novas abordagens de doação, como platarfomas digitais, têm se consolidado no Brasil, facilitando contribuições mais frequentes e acessíveis, porém muitos desses lares de idosos não possuem ferramentas adequadas. Por esse motivo, a criação de um software de gerenciamento de doações se torna necessário para incentivar as contribuições e garantir credibilidade sobre como o dinheiro será investido e, consequentemente, gerar um impacto positivo na vida dos idosos. 
 
 ## Público-Alvo
 
