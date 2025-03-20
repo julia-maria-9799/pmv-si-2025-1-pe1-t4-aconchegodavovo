@@ -26,6 +26,8 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
+### Persona doador
+
 |EU COMO...          | QUERO/PRECISO ...                  | PARA ...                               |
 |--------------------|------------------------------------|----------------------------------------|
 |Doador              | Cadastrar no site                  | Realizar as doações                    |
@@ -36,6 +38,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Doador              | Visualizar os planos das ILPIs     | Realizar as doações                    |
 |Doador              | Uma busca/filtro                   | Pesquisar as ILPIs                     |
 
+### Persona ILPI
 
 |EU COMO...          | QUERO/PRECISO ...                  | PARA ...                               |
 |--------------------|------------------------------------|----------------------------------------|
