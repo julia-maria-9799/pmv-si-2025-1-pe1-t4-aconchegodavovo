@@ -6,21 +6,103 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
 
-## Personas
+# Personas
+## 1° Persona
+**Nome:** Conceição Aparecida  
+**Idade:** 75 anos  
+**Hobby:** Crochê  
+**Trabalho:** Aposentada  
+**Personalidade:** Animadora (ESFP)  
+**Sonho:** Família reunida  
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+### Objetos e Lugares:
+Quais objetos físicos e digitais essa pessoa usa? Quando, onde e como ela os usa?
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+- **Pingente de cruz:** Usa sempre, em qualquer lugar, ela o utiliza como símbolo religioso.  
+- **Óculos, bengala e dentadura:** Objetos de uso pessoal.  
+- **Televisão, rádio, jornal, revista:** Usa nas horas livres, como entretenimento e informação.  
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+### Objetivos Chave:
+Quais são os objetivos chave da pessoa durante a utilização do serviço? Por que eles precisam deste serviço?
+
+- Não utiliza o serviço em si, porém é beneficiada por conta das doação que vão aumentar a qualidade de vida.
+
+### Como devemos tratá-la:
+Como devemos tratá-la para que se sinta bem?
+
+- Reconhecendo sua história, opiniões e experiências.  
+- Dando atenção às suas preferências.  
+- Conversando e ouvindo – Mostrando que suas histórias e sentimentos são valorizados.  
+
+### Quais tipos de comportamento que deixam essa pessoa feliz?
+
+- Fazê-la se sentir útil, como pedir conselhos ou envolvê-la em pequenas atividades. Sorrir e interagir de forma gentil, pois pequenos gestos fazem muita diferença. Estimular memórias boas, perguntar sobre sua juventude e histórias de vida.
+
+
+## 2° Persona
+**Nome:** Francisco  
+**Idade:** 42 anos  
+**Hobby:** Ler  
+**Trabalho:** Advogado  
+**Personalidade:** Protagonista (ESFP)   
+**Sonho:** Família reunida  
+
+### Objetos e Lugares:
+Quais objetos físicos e digitais essa pessoa usa? Quando, onde e como ela os usa?
+
+- Pingente de cruz: Usa sempre, ele o utiliza como símbolo religioso.
+- Carteira, relógio e celular: Objetos de uso pessoal.
+- Livros: Hobby desde a infância.
+- Retrato da família : Objeto de decoração e recordação.
+
+### Objetivos Chave:
+Quais são os objetivos chave da pessoa durante a utilização do serviço? Por que eles precisam deste serviço?
+
+- Utiliza o serviço para ajudar outras famílias, participando ativamente na contribuição finaceira de outros lares.
+
+### Como devemos tratá-lo:
+Como devemos tratá-lo para que se sinta bem?
+
+- Respeito e transparência - Oferecer informações honestas de maneira respeitosa.
+- Assertividade e Comunicação - Trazer dados relevantes de modo assertivo visando o bom entendimento da outra parte.
+- Empatia - Ser compreendido de momentos delicados.
+
+### Quais tipos de comportamento que deixam essa pessoa feliz?
+
+- Fazê-lo se sentir que está ajudando as pessoas. Almoços de domingo, onde consegue ter momentos em família. Ganhar um novo livro. Diálogos teóricos sobre livros. 
+
+## 3° Persona
+**Nome:** Luciana  
+**Idade:** 50 anos  
+**Hobby:** Caminhar  
+**Trabalho:** Administra uma ILPI  
+**Personalidade:** Executiva (ESTJ)  
+**Sonho:** Aumentar a sua ILPI  
+
+### Objetos e Lugares:
+Quais objetos físicos e digitais essa pessoa usa? Quando, onde e como ela os usa?
+
+- **Smartphone:** Usado para mensagens com os familiares; grupos de funcionários; redes sociais do lar.
+- **Notebook:** Usado para a parte contábil, pesquisas de apoio a melhorias.
+- **Caderno ou agenda:** Para anotações sobre as atividades diárias.
+
+### Objetivos Chave:
+Quais são os objetivos chave da pessoa durante a utilização do serviço? Por que eles precisam deste serviço?
+
+- Divulgar a necessidade de apoiar doação para o lar que ela administra e também para outros lares.
+- Utiliza o serviço para ajudar outras famílias, participando ativamente na contribuição finaceira de outros lares.
+
+### Como devemos tratá-la:
+Como devemos tratá-la para que se sinta bem?
+
+- Com empatia e respeito – Ela valoriza um atendimento humano e acolhedor.
+- Com informações claras e objetivas – Prefere dados confiáveis e diretos para tomada de decisão.
+- Gosta de compartilhar suas opiniões e ouvir as experiências de outros.
+
+### Quais tipos de comportamento que deixam essa pessoa feliz?
+
+- Ver campanhas de doação para ajudar lares que precisam de maior apoio financeiro. Receber voluntários para alegrar os moradores.
+
 
 ## Histórias de Usuários
 
