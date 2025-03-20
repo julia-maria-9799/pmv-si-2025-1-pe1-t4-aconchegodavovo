@@ -32,23 +32,36 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Doador              | Cadastrar no site                  | Realizar as doações                    |
 |Doador              | Alterar minhas informações         | Atualizar meu perfil                   |
+|Doador              | De um site                         | Realizar as doações                    |
+|Doador              | Visualizar as ILPIs                | Realizar as doações                    |
+|Doador              | Uma busca/filtro                   | Pesquisar as ILPIs                     |
+|Doador              | Sair da minha conta no site        | Segurança                              |
 |Doador              | Deletar minha conta                | Caso não queira mais usar o site       |
 |Doador              | Poder alterar minha senha          | Caso de esquecimento                   |
-|Doador              | Sair da minha conta no site        | Segurança                              |
+|Doador              | Entrar na minha conta              | Utilizar ps serviços                   |
+|Doador              | Ver minhas informações cadastradas | Validação                              |
 |Doador              | Visualizar os planos das ILPIs     | Realizar as doações                    |
-|Doador              | Uma busca/filtro                   | Pesquisar as ILPIs                     |
+|Doador              | Visualizar os extratos das doações | Controle financeiro                    |
 
 ### Persona ILPI
 
 |EU COMO...          | QUERO/PRECISO ...                  | PARA ...                               |
 |--------------------|------------------------------------|----------------------------------------|
 |ILPI                | Cadastrar no site                  | Receber as doações                     |
-|ILPI                | Adicionar planos                   | Os doadores doarem                     |
-|ILPI                | Disponibilizar planos, chave PIX   | Receber as doações                     |
-|ILPI                | Entrar na minha conta no site      | Realizar login                         |
-|ILPI                | Informar minhas redes sociais      | Que tenhamos mais visibilidade         |
-|ILPI                | Visualizar minhas informações      | Validação                              |
+|ILPI                | Alterar minhas informações         | Atualizar o que os doadores vão ver    |
 |ILPI                | Deletar minha conta                | Caso não queira mais usar o site       |
+|ILPI                | Visualizar minhas informações      | Validação                              |
+|ILPI                | Informar minhas redes sociais      | Que tenhamos mais visibilidade         |
+|ILPI                | Sair da minha conta                | Segurança                              |
+|ILPI                | Disponibilizar planos, chave PIX   | Receber as doações                     |
+|ILPI                | Cadastrar minhas informações       | Atualizar o que os doadores vão ver    |
+|ILPI                | Alterar meu perfil                 | Atualizar minhas informações           |
+|ILPI                | Deletar minhas informações         | Atualizar o que os doadores vão ver    |
+|ILPI                | Editar os planos                   | Os doadores doarem                     |
+|ILPI                | Entrar na minha conta no site      | Realizar login                         |
+|ILPI                | Visualizar meus planos             | Os doadores doarem                     |
+|ILPI                | Deletar os planos                  | Os doadores não terem acesso           |
+|ILPI                | Adicionar planos                   | Os doadores doarem                     |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
