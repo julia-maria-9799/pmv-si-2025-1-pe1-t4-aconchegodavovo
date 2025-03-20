@@ -26,10 +26,26 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO...          | QUERO/PRECISO ...                  | PARA ...                               |
 |--------------------|------------------------------------|----------------------------------------|
-|Doador              | Visualizar as ILPIs                | Realizar as doações                    |
+|Doador              | Cadastrar no site                  | Realizar as doações                    |
+|Doador              | Alterar minhas informações         | Atualizar meu perfil                   |
+|Doador              | Deletar minha conta                | Caso não queira mais usar o site       |
+|Doador              | Poder alterar minha senha          | Caso de esquecimento                   |
+|Doador              | Sair da minha conta no site        | Segurança                              |
+|Doador              | Visualizar os planos das ILPIs     | Realizar as doações                    |
+|Doador              | Uma busca/filtro                   | Pesquisar as ILPIs                     |
+
+
+|EU COMO...          | QUERO/PRECISO ...                  | PARA ...                               |
+|--------------------|------------------------------------|----------------------------------------|
+|ILPI                | Cadastrar no site                  | Receber as doações                     |
+|ILPI                | Adicionar planos                   | Os doadores doarem                     |
 |ILPI                | Disponibilizar planos, chave PIX   | Receber as doações                     |
+|ILPI                | Entrar na minha conta no site      | Realizar login                         |
+|ILPI                | Informar minhas redes sociais      | Que tenhamos mais visibilidade         |
+|ILPI                | Visualizar minhas informações      | Validação                              |
+|ILPI                | Deletar minha conta                | Caso não queira mais usar o site       |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
