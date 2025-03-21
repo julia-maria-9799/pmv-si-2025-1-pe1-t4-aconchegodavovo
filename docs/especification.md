@@ -188,8 +188,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |03| Não pode ser desenvolvido um módulo de backend        |
-|04| Não pode ser desenvolvido em tecnologias além de Html, Css e javascript |
-|05| Não pode ser desenvolvido com auxilio de terceiros que não fazem parte do grupo    |
+|04| Principais tecnologias a serem utilizadas devem ser : HTML, CSS e JS. |
+|05| Não pode ser desenvolvido com auxilio de terceiros que não fazem parte do grupo   |
+|06| A solução do projeto deve se limitar a problemática do projeto, respeitando o tema proposto.   |
+
  
 
 
