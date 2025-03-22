@@ -195,7 +195,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|03| Não pode ser desenvolvido um módulo de backend        |
+|03| O sistema deve ser responsivo, garantindo a usabilidade em dispositivos móveis. |
 |04| Principais tecnologias a serem utilizadas devem ser : HTML, CSS e JS. |
 |05| Não pode ser desenvolvido com auxilio de terceiros que não fazem parte do grupo   |
 |06| A solução do projeto deve se limitar a problemática do projeto, respeitando o tema proposto.   |
