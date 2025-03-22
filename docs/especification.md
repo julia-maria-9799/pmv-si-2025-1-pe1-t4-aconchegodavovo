@@ -2,14 +2,14 @@
 
 Atualmete muitos dos lares de longa permanência para idosos enfrentam dificuldades financeiras para manter a qualidade dos serviços oferecidos. Muitas dessas instituições dependem de doações e auxílios governamentais, que nem sempre são suficientes para cobrir despesas como, alimentação, higiene, medicamentos e infraestrutura.
 
-Para solucionar esse problema, a ideia do projeto propõe o desenvolvimento de um site de doações, conectando doadores a lares de idosos que necessitam de apoio. A plataforma permitirá que indivíduos e empresas façam doações financeiras, garantindo transparência e eficiência na distribuição dos recursos.
+Para solucionar esse problema, a ideia do projeto propõe o desenvolvimento de um sistema Web de doações, conectando doadores a lares de idosos que necessitam de apoio. A plataforma permitirá que indivíduos e empresas façam doações financeiras, garantindo transparência e eficiência na distribuição dos recursos.
 
 **1.** O sistema vai permitir o cadastro de lares de longa permanência.<br/>
 **2.** O sistema vai permitir o cadastro de doadores (pessoas físicas ou jurídicas).<br/>
 **3.** Os doadores vão poder visualizar uma lista de lares cadastrados.<br/>
 **4.** O sistema vai permitir que os doadores façam doações financeiras para os lares.<br/>
 **4.** Os lares vão poder atualizar informações sobre suas necessidades e formas de doações aceitas.<br/>
-**5.** O site deve exibir detalhes sobre cada lar, incluindo localização, fotos e  descrição das suas principais necessidades.
+**5.** O sistema deve exibir detalhes sobre cada lar, incluindo localização, fotos e  descrição das suas principais necessidades.
 
 # Personas
 ## 1° Persona
@@ -118,12 +118,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | EU COMO...       | QUERO/PRECISO...                         | PARA...                                        |
 |------------------|------------------------------------------|------------------------------------------------|
 | Doador           | De um sistema web                        | Realizar as doações                            |
-| Doador           | Me cadastrar no site                     | Realizar as doações                            |
-| Doador           | Alterar minhas informações no site       | Atualizar meu perfil                           |
+| Doador           | Me cadastrar no sistema                     | Realizar as doações                         |
+| Doador           | Alterar minhas informações no sistema       | Atualizar meu perfil                        |
 | Doador           | Visualizar minhas informações cadastradas| Verificá-las                                   |
-| Doador           | Deletar minha conta no site              | Caso não queira mais usar o site               |
-| Doador           | Sair da minha conta no site              | Por segurança                                  |
-| Doador           | Entrar na minha conta no site            | Utilizar os serviços                           |
+| Doador           | Deletar minha conta no sistema              | Caso não queira mais usar o sistema         |
+| Doador           | Sair da minha conta no sistema              | Por segurança                               |
+| Doador           | Entrar na minha conta no sistema            | Utilizar os serviços                        |
 | Doador           | Alterar minha senha no login             | Em caso de esquecimento                        |
 | Doador           | Visualizar as ILPIs                      | Realizar as doações                            |
 | Doador           | Ter uma busca/filtro                     | Pesquisar as ILPIs                             |
@@ -136,17 +136,17 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | EU COMO...       | QUERO/PRECISO...                          | PARA...                                         |
 |------------------|------------------------------------------|------------------------------------------------- |
 | ILPI             | De um sistema web                         | Receber as doações                              |
-| ILPI             | Cadastrar minhas informações empresariais no site | Receber as doações                      |
+| ILPI             | Cadastrar minhas informações empresariais no sistema | Receber as doações                   |
 | ILPI             | Visualizar informações empresariais da minha conta | Para verificá-las                      |
 | ILPI             | Editar as informações empresariais da minha conta | Deixá-las atualizadas                   |
-| ILPI             | Deletar minha conta empresarial           | Caso não queira mais usar o site                |
-| ILPI             | Sair da minha conta no site               | Para segurança                                  |
-| ILPI             | Entrar na minha conta no site             | Para utilizá-lo                                 |
+| ILPI             | Deletar minha conta empresarial           | Caso não queira mais usar o sistema             |
+| ILPI             | Sair da minha conta no sistema               | Para segurança                               |
+| ILPI             | Entrar na minha conta no sistema             | Para utilizá-lo                              |
 | ILPI             | Alterar minha senha no login              | Em caso de esquecimento                         |
-| ILPI             | Cadastrar as informações do meu perfil    | Para serem expostas no site                     |
-| ILPI             | Visualizar meu perfil                     | Para verificar as informações expostas no site  |
-| ILPI             | Deletar as informações do perfil          | Para remover informações expostas no site       |
-| ILPI             | Alterar meu perfil                        | Para atualizar as informações expostas no site  |
+| ILPI             | Cadastrar as informações do meu perfil    | Para serem expostas no sistema                     |
+| ILPI             | Visualizar meu perfil                     | Para verificar as informações expostas no sistema  |
+| ILPI             | Deletar as informações do perfil          | Para remover informações expostas no sistema       |
+| ILPI             | Alterar meu perfil                        | Para atualizar as informações expostas no sistema  |
 | ILPI             | Adicionar os planos                       | Para os doadores doarem                         |
 | ILPI             | Editar os planos                          | Para atualizar os valores das doações           |
 | ILPI             | Visualizar os planos cadastrados          | Para verificá-los                               |
