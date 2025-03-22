@@ -133,23 +133,25 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Persona ILPI
 
-|EU COMO...          | QUERO/PRECISO ...                  | PARA ...                               |
-|--------------------|------------------------------------|----------------------------------------|
-|ILPI                | Cadastrar no site                  | Receber as doações                     |
-|ILPI                | Alterar minhas informações         | Atualizar o que os doadores vão ver    |
-|ILPI                | Deletar minha conta                | Caso não queira mais usar o site       |
-|ILPI                | Visualizar minhas informações      | Validação                              |
-|ILPI                | Informar minhas redes sociais      | Que tenhamos mais visibilidade         |
-|ILPI                | Sair da minha conta                | Segurança                              |
-|ILPI                | Disponibilizar planos, chave PIX   | Receber as doações                     |
-|ILPI                | Cadastrar minhas informações       | Atualizar o que os doadores vão ver    |
-|ILPI                | Alterar meu perfil                 | Atualizar minhas informações           |
-|ILPI                | Deletar minhas informações         | Atualizar o que os doadores vão ver    |
-|ILPI                | Editar os planos                   | Os doadores doarem                     |
-|ILPI                | Entrar na minha conta no site      | Realizar login                         |
-|ILPI                | Visualizar meus planos             | Os doadores doarem                     |
-|ILPI                | Deletar os planos                  | Os doadores não terem acesso           |
-|ILPI                | Adicionar planos                   | Os doadores doarem                     |
+| EU COMO...       | QUERO/PRECISO...                          | PARA...                                         |
+|------------------|------------------------------------------|------------------------------------------------- |
+| ILPI             | De um sistema web                         | Receber as doações                               |
+| ILPI             | Cadastrar minhas informações empresariais no site | Receber as doações                      |
+| ILPI             | Editar as informações empresariais da minha conta | Deixá-las atualizadas                   |
+| ILPI             | Deletar minha conta empresarial           | Caso não queira mais usar o site                |
+| ILPI             | Sair da minha conta no site               | Para segurança                                  |
+| ILPI             | Entrar na minha conta no site             | Para utilizá-lo                                 |
+| ILPI             | Alterar minha senha no login              | Em caso de esquecimento                         |
+| ILPI             | Cadastrar as informações do meu perfil    | Para serem expostas no site                     |
+| ILPI             | Visualizar meu perfil                     | Para verificar as informações expostas no site  |
+| ILPI             | Deletar as informações do perfil          | Para remover informações expostas no site       |
+| ILPI             | Alterar meu perfil                        | Para atualizar as informações expostas no site  |
+| ILPI             | Adicionar os planos                       | Para os doadores doarem                         |
+| ILPI             | Editar os planos                          | Para atualizar os valores das doações           |
+| ILPI             | Visualizar os planos cadastrados          | Para verificá-los                               |
+| ILPI             | Deletar os planos                         | Para removê-los das opções de planos            |
+| ILPI             | Visualizar os pagamentos recebidos        | Para controle financeiro                        |
+
 
 
 ## Requisitos
