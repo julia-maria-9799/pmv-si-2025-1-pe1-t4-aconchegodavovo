@@ -80,7 +80,9 @@ Como devemos tratá-lo para que se sinta bem?
 
 - Fazê-lo se sentir que está ajudando as pessoas. Almoços de domingo, onde consegue ter momentos em família. Ganhar um novo livro. Diálogos teóricos sobre livros. 
 
-## 3° Persona
+## 3° Persona 
+![Conceição Aparecida (2)](https://github.com/user-attachments/assets/7cc139d7-dda0-4792-b7b3-26a3cb700d92)
+
 **Nome:** Luciana  
 **Idade:** 50 anos  
 **Hobby:** Caminhar  
