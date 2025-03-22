@@ -113,7 +113,7 @@ Como devemos tratá-la para que se sinta bem?
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-### Persona doador
+### Persona Doador
 
 | EU COMO...       | QUERO/PRECISO...                         | PARA...                                        |
 |------------------|------------------------------------------|------------------------------------------------|
