@@ -135,8 +135,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 | EU COMO...       | QUERO/PRECISO...                          | PARA...                                         |
 |------------------|------------------------------------------|------------------------------------------------- |
-| ILPI             | De um sistema web                         | Receber as doações                               |
+| ILPI             | De um sistema web                         | Receber as doações                              |
 | ILPI             | Cadastrar minhas informações empresariais no site | Receber as doações                      |
+| ILPI             | Visualizar informações empresariais da minha conta | Para verificá-las                      |
 | ILPI             | Editar as informações empresariais da minha conta | Deixá-las atualizadas                   |
 | ILPI             | Deletar minha conta empresarial           | Caso não queira mais usar o site                |
 | ILPI             | Sair da minha conta no site               | Para segurança                                  |
