@@ -1,10 +1,6 @@
 # Especificações do Projeto
 
-As ferramentas utilizadas para a especificação do projeto incluem:
-
-Miro: Utilizado para a criação colaborativa de diagramas de personas e fluxos de usuário, facilitando o entendimento visual das interações e necessidades.
-
-Design Thinking: Aplicado para promover uma abordagem centrada no usuário, alinhando soluções criativas com as necessidades reais dos usuários e dos stakeholders, ajudando a gerar insights e inovações.
+Este documento de Especificações do Projeto tem como objetivo detalhar as funcionalidades, requisitos e restrições do sistema, servindo como guia para todos os envolvidos no desenvolvimento. Através de técnicas como personas, histórias de usuários, requisitos funcionais e não funcionais, buscamos alinhar as necessidades dos usuários e os objetivos do projeto. Ferramentas como Miro e Design Thinking foram utilizadas para ajudar na solução.
 
 # Personas
 
