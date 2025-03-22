@@ -6,7 +6,7 @@ Para solucionar esse problema, a ideia do projeto propõe o desenvolvimento de u
 
 **1.** O sistema vai permitir o cadastro de lares de longa permanência.<br/>
 **2.** O sistema vai permitir o cadastro de doadores.<br/>
-**3.** Os doadores vão poder visualizar uma lista de lares cadastrados.<br/>
+**3.** Os doadores vão poder visualizar os lares cadastrados.<br/>
 **4.** O sistema vai permitir que os doadores façam doações financeiras para os lares.<br/>
 **4.** Os lares vão poder atualizar informações sobre suas necessidades e formas de doações aceitas.<br/>
 **5.** O sistema deve exibir detalhes sobre cada lar, incluindo localização, fotos e  descrição das suas principais necessidades.
