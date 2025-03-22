@@ -4,13 +4,13 @@ Atualmete muitos dos lares de longa permanência para idosos enfrentam dificulda
 
 Para solucionar esse problema, a ideia do projeto propõe o desenvolvimento de um sistema Web de doações, conectando doadores a lares de idosos que necessitam de apoio. A plataforma permitirá que indivíduos e empresas façam doações financeiras, garantindo transparência e eficiência na distribuição dos recursos.
 
-**1.** O sistema vai permitir o cadastro de lares de longa permanência.<br/>
+**1.** O sistema vai permitir o cadastro de ILPIs.<br/>
 **2.** O sistema vai permitir o cadastro de doadores.<br/>
-**3.** Os doadores vão poder visualizar os lares cadastrados.<br/>
-**4.** O sistema vai permitir que os doadores façam doações financeiras para os lares.<br/>
+**3.** Os doadores vão poder visualizar as ILPIs cadastrados.<br/>
+**4.** O sistema vai permitir que os doadores façam doações financeiras para os ILPIs.<br/>
 **5.** Os doadores vão poder visualizar os pagamentos realizados, para controle financeiro.<br/>
-**6.** Os ILIP's vão poder visualizar os pagamentos recebidos, para controle financeiro.<br/>
-**7.** Os lares vão poder atualizar informações sobre suas necessidades e formas de doações aceitas.<br/>
+**6.** As ILPIs vão poder visualizar os pagamentos recebidos, para controle financeiro.<br/>
+**7.** As ILPIs vão poder atualizar informações sobre suas necessidades e formas de doações aceitas.<br/>
 **8.** O sistema deve exibir detalhes sobre cada lar, incluindo localização, descrição das suas principais necessidades e rede sociais.
 
 # Personas
