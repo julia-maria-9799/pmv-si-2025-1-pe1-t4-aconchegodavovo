@@ -1,17 +1,10 @@
 # Especificações do Projeto
 
-Atualmete muitos dos lares de longa permanência para idosos enfrentam dificuldades financeiras para manter a qualidade dos serviços oferecidos. Muitas dessas instituições dependem de doações e auxílios governamentais, que nem sempre são suficientes para cobrir despesas como, alimentação, higiene, medicamentos e infraestrutura.
+As ferramentas utilizadas para a especificação do projeto incluem:
 
-Para solucionar esse problema, a ideia do projeto propõe o desenvolvimento de um sistema Web de doações, conectando doadores a lares de idosos que necessitam de apoio. A plataforma permitirá que indivíduos e empresas façam doações financeiras, garantindo transparência e eficiência na distribuição dos recursos.
+Miro: Utilizado para a criação colaborativa de diagramas de personas e fluxos de usuário, facilitando o entendimento visual das interações e necessidades.
 
-**1.** O sistema vai permitir o cadastro das ILPIs.<br/>
-**2.** O sistema vai permitir o cadastro de doadores.<br/>
-**3.** Os doadores vão poder visualizar as ILPIs cadastrados.<br/>
-**4.** O sistema vai permitir que os doadores façam doações financeiras para as ILPIs.<br/>
-**5.** Os doadores vão poder visualizar os pagamentos realizados, para controle financeiro.<br/>
-**6.** As ILPIs vão poder visualizar os pagamentos recebidos, para controle financeiro.<br/>
-**7.** As ILPIs vão poder atualizar informações sobre suas necessidades e formas de doações aceitas.<br/>
-**8.** O sistema deve exibir detalhes sobre cada lar, incluindo localização, descrição das suas principais necessidades e rede sociais.
+Design Thinking: Aplicado para promover uma abordagem centrada no usuário, alinhando soluções criativas com as necessidades reais dos usuários e dos stakeholders, ajudando a gerar insights e inovações.
 
 # Personas
 
