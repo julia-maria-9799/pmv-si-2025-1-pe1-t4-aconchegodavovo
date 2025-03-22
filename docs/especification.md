@@ -8,8 +8,10 @@ Para solucionar esse problema, a ideia do projeto propõe o desenvolvimento de u
 **2.** O sistema vai permitir o cadastro de doadores.<br/>
 **3.** Os doadores vão poder visualizar os lares cadastrados.<br/>
 **4.** O sistema vai permitir que os doadores façam doações financeiras para os lares.<br/>
-**4.** Os lares vão poder atualizar informações sobre suas necessidades e formas de doações aceitas.<br/>
-**5.** O sistema deve exibir detalhes sobre cada lar, incluindo localização, fotos e  descrição das suas principais necessidades.
+**5.** Os doadores vão poder visualizar os pagamentos realizados, para controle financeiro.<br/>
+**6.** Os ILIP's vão poder visualizar os pagamentos recebidos, para controle financeiro.<br/>
+**7.** Os lares vão poder atualizar informações sobre suas necessidades e formas de doações aceitas.<br/>
+**8.** O sistema deve exibir detalhes sobre cada lar, incluindo localização, descrição das suas principais necessidades e rede sociais.
 
 # Personas
 
