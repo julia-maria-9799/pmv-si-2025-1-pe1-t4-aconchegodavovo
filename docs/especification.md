@@ -2,7 +2,7 @@
 
 Este documento de Especificações do Projeto tem como objetivo detalhar as funcionalidades, requisitos e restrições do sistema, servindo como guia para todos os envolvidos no desenvolvimento. Através de técnicas como personas, histórias de usuários, requisitos funcionais e não funcionais, buscamos alinhar as necessidades dos usuários e os objetivos do projeto.
 
-Foram utilizadas metodologias como o Processo de Design Thinking, além da criação do Mapa de Stakeholders, Matriz de Alinhamento CSD, Entrevistas Qualitativas, Highlights de Pesquisa, Criação de Personas, Brainstorming e Priorização de Ideias, todas realizadas na ferramenta Miro, para garantir que as decisões tomadas estivessem alinhadas com as expectativas dos envolvidos e as necessidades dos usuários.
+Para a elaboração deste documento, foram utilizadas metodologias como o Processo de Design Thinking, juntamente com a criação do Mapa de Stakeholders, Matriz de Alinhamento CSD, Entrevistas Qualitativas, Highlights de Pesquisa, Criação de Personas, Brainstorming e Priorização de Ideias. Todas as atividades foram realizadas na ferramenta Miro, uma plataforma de criação colaborativa que facilitou o entendimento visual das interações e necessidades, garantindo que as decisões tomadas estivessem alinhadas com as expectativas dos envolvidos e as necessidades dos usuários.
 
 # Personas
 
