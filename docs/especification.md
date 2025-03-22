@@ -200,13 +200,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |05| Não pode ser desenvolvido com auxilio de terceiros que não fazem parte do grupo.   |
 |06| A solução do projeto deve se limitar a problemática do projeto, respeitando o tema proposto.   |
 |07| O sistema deve ser desenvolvido sem dependência de frameworks.   |
-
- 
-
-
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
+|08| A interface do sistema deverá ser amigável para usuários com pouca experiência tecnológica.   |
 
 > **Links Úteis**:
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
