@@ -12,7 +12,10 @@ Para solucionar esse problema, a ideia do projeto propõe o desenvolvimento de u
 **5.** O sistema deve exibir detalhes sobre cada lar, incluindo localização, fotos e  descrição das suas principais necessidades.
 
 # Personas
+
 ## 1° Persona
+![Conceição Aparecida](https://github.com/user-attachments/assets/cd35e81a-bc79-42ac-ad05-f6ce05e2f539)
+
 **Nome:** Conceição Aparecida  
 **Idade:** 75 anos  
 **Hobby:** Crochê  
@@ -43,8 +46,9 @@ Como devemos tratá-la para que se sinta bem?
 
 - Fazê-la se sentir útil, como pedir conselhos ou envolvê-la em pequenas atividades. Sorrir e interagir de forma gentil, pois pequenos gestos fazem muita diferença. Estimular memórias boas, perguntar sobre sua juventude e histórias de vida.
 
-
 ## 2° Persona
+![Conceição Aparecida (1)](https://github.com/user-attachments/assets/2ae5f0c7-2e36-40af-9137-34c415b1d04a)
+
 **Nome:** Francisco  
 **Idade:** 42 anos  
 **Hobby:** Ler  
