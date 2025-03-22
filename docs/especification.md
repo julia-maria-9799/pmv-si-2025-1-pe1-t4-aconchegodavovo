@@ -118,7 +118,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | EU COMO...       | QUERO/PRECISO...                         | PARA...                                        |
 |------------------|------------------------------------------|------------------------------------------------|
 | Doador           | De um sistema web                        | Realizar as doações                            |
-| Doador           | Me cadastrar no site                     | Fazer as doações                               |
+| Doador           | Me cadastrar no site                     | Realizar as doações                            |
 | Doador           | Alterar minhas informações no site       | Atualizar meu perfil                           |
 | Doador           | Visualizar minhas informações cadastradas| Verificá-las                                   |
 | Doador           | Deletar minha conta no site              | Caso não queira mais usar o site               |
