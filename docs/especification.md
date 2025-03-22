@@ -11,8 +11,6 @@ Para solucionar esse problema, a ideia do projeto propõe o desenvolvimento de u
 **4.** Os lares vão poder atualizar informações sobre suas necessidades e formas de doações aceitas.<br/>
 **5.** O site deve exibir detalhes sobre cada lar, incluindo localização, fotos e  descrição das suas principais necessidades.
 
-Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
-
 # Personas
 ## 1° Persona
 **Nome:** Conceição Aparecida  
