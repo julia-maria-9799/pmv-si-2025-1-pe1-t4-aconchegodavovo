@@ -36,12 +36,16 @@ Pesquisas feitas pelo IDIS (Instituto para o Desenvolvimento do Investimento Soc
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+A aplicação terá uma variedade de usuários, cada um com diferentes perfis, motivações e graus de intimidade com a tecnologia. Entre eles, destacam-se os **Doadores**, pessoas que desejam melhorar a qualidade de vida dos idosos por meio de doações financeiras ou materiais. Esse grupo é bastante diverso, englobando desde pessoas com pouca experiência digital até usuários com mais habilidade com sites e outras plataformas digitais. A maioria tem uma conexão funcional com a tecnologia, sendo capaz de manusear sistemas básicos, mas sem necessariamente dominar técnicas avançadas. Portanto, a aplicação precisa ser intuitiva e de fácil acesso, possibilitando que qualquer doador faça contribuições de maneira simples.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Outro perfil essencial são os **Administradores das Instituições**, responsáveis por administrar as ILPIs e garantir que os recursos sejam direcionados de forma eficiente para manter o funcionamento dos lares. Eles costumam ter experiência em gestão de pessoas e recursos, mas seu conhecimento tecnológico pode variar entre básico e intermediário. Normalmente, fazem uso de ferramentas mais simples, como e-mails, planilhas e aplicativos de mensagens. Dessa forma, a plataforma precisa oferecer uma interface prática e objetiva, facilitando tanto o gerenciamento das doações quanto a divulgação das necessidades da instituição, sem exigir que o gestor tenha habilidades técnicas avançadas.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Apesar de desempenharem papéis diferentes, esses perfis compartilham um objetivo em comum: a necessidade de uma plataforma que conecte, de maneira rápida e organizada, aqueles que querem ajudar com as instituições que mais precisam, garantindo uma experiência simples, eficaz e satisfatória para todos os envolvidos.
+
+
+### Mapa de Stakeholders
+
+| Pessoas Fundamentais  | Pessoas Importantes | Pessoas Influenciadoras |
+| ------------- | ------------- | ------------- |
+| **Administradores das ILPIs:** Encarregados de manter a operação da instituição, registrar as necessidades e administrar as contribuições recebidas.  A sua contribuição é fundamental para que o sistema alcance seu objetivo.  | **Doadores:** Indivíduos que desejam contribuir, sejam eles pessoas físicas ou empresas. Sua participação é vital para garantir os recursos necessários às ILPIs. | **Redes Sociais:** Plataformas como Instagram, Facebook e TikTok atuam como grandes influenciadoras, ajudando a ampliar a visibilidade do projeto, engajar mais doadores e incentivar a participação de voluntários. Sua capacidade de viralização e alcance rápido torna as redes um canal estratégico para fortalecer a causa. |
+| **Idosos dos lares:** Mesmo não participando ativamente nos recebimentos das doações e da plataforma, são essenciais para o projeto por serem o foco principal para que ele exista.  O sucesso da aplicação se mede pelo impacto positivo gerado em sua qualidade de vida.   | **Família dos Idosos:** Familiares que se preocupam com o bem-estar de seus entes queridos e podem atuar tanto como apoiadores na divulgação das instituições, doações e também como doadores. Eles também são importantes para acompanhar a qualidade dos cuidados recebidos e incentivar melhorias nas ILPIs.  | **Rádio e TV:** Meios de comunicação tradicionais que têm grande alcance, especialmente entre públicos menos conectados às redes sociais. Eles podem ajudar a divulgar a plataforma, promover campanhas de doação e sensibilizar a sociedade sobre a importância de apoiar as ILPIs. |
