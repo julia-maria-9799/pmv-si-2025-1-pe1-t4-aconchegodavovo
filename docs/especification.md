@@ -1,8 +1,15 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+Atualmete muitos dos lares de longa permanência para idosos enfrentam dificuldades financeiras para manter a qualidade dos serviços oferecidos. Muitas dessas instituições dependem de doações e auxílios governamentais, que nem sempre são suficientes para cobrir despesas como, alimentação, higiene, medicamentos e infraestrutura.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
+Para solucionar esse problema, a ideia do projeto propõe o desenvolvimento de um site de doações, conectando doadores a lares de idosos que necessitam de apoio. A plataforma permitirá que indivíduos e empresas façam doações financeiras, garantindo transparência e eficiência na distribuição dos recursos.
+
+O sistema vai permitir o cadastro de lares de longa permanência.
+O sistema vai permitir o cadastro de doadores (pessoas físicas ou jurídicas).
+Os doadores vão poder visualizar uma lista de lares cadastrados.
+O sistema vai permitir que os doadores façam doações financeiras para os lares.
+Os lares vão poder atualizar informações sobre suas necessidades e formas de doações aceitas.
+O site deve exibir detalhes sobre cada lar, incluindo localização, fotos e  descrição das suas principais necessidades.
 
 Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
 
