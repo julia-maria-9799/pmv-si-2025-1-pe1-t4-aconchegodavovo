@@ -115,20 +115,21 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Persona doador
 
-|EU COMO...          | QUERO/PRECISO ...                  | PARA ...                               |
-|--------------------|------------------------------------|----------------------------------------|
-|Doador              | Cadastrar no site                  | Realizar as doações                    |
-|Doador              | Alterar minhas informações         | Atualizar meu perfil                   |
-|Doador              | De um site                         | Realizar as doações                    |
-|Doador              | Visualizar as ILPIs                | Realizar as doações                    |
-|Doador              | Uma busca/filtro                   | Pesquisar as ILPIs                     |
-|Doador              | Sair da minha conta no site        | Segurança                              |
-|Doador              | Deletar minha conta                | Caso não queira mais usar o site       |
-|Doador              | Poder alterar minha senha          | Caso de esquecimento                   |
-|Doador              | Entrar na minha conta              | Utilizar ps serviços                   |
-|Doador              | Ver minhas informações cadastradas | Validação                              |
-|Doador              | Visualizar os planos das ILPIs     | Realizar as doações                    |
-|Doador              | Visualizar os extratos das doações | Controle financeiro                    |
+| EU COMO...       | QUERO/PRECISO...                         | PARA...                                        |
+|------------------|------------------------------------------|------------------------------------------------|
+| Doador           | De um sistema web                        | Realizar as doações                            |
+| Doador           | Me cadastrar no site                     | Fazer as doações                               |
+| Doador           | Alterar minhas informações no site       | Atualizar meu perfil                           |
+| Doador           | Visualizar minhas informações cadastradas| Verificá-las                                   |
+| Doador           | Deletar minha conta no site              | Caso não queira mais usar o site               |
+| Doador           | Sair da minha conta no site              | Por segurança                                  |
+| Doador           | Entrar na minha conta no site            | Utilizar os serviços                           |
+| Doador           | Alterar minha senha no login             | Em caso de esquecimento                        |
+| Doador           | Visualizar as ILPIs                      | Realizar as doações                            |
+| Doador           | Ter uma busca/filtro                     | Pesquisar as ILPIs                             |
+| Doador           | Visualizar os planos das ILPIs           | Realizar as doações                            |
+| Doador           | Visualizar os pagamentos realizados nas doações | Controle financeiro                     |
+
 
 ### Persona ILPI
 
