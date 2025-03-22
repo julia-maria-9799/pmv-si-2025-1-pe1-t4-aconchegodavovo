@@ -4,12 +4,12 @@ Atualmete muitos dos lares de longa permanência para idosos enfrentam dificulda
 
 Para solucionar esse problema, a ideia do projeto propõe o desenvolvimento de um site de doações, conectando doadores a lares de idosos que necessitam de apoio. A plataforma permitirá que indivíduos e empresas façam doações financeiras, garantindo transparência e eficiência na distribuição dos recursos.
 
-O sistema vai permitir o cadastro de lares de longa permanência.
-O sistema vai permitir o cadastro de doadores (pessoas físicas ou jurídicas).
-Os doadores vão poder visualizar uma lista de lares cadastrados.
-O sistema vai permitir que os doadores façam doações financeiras para os lares.
-Os lares vão poder atualizar informações sobre suas necessidades e formas de doações aceitas.
-O site deve exibir detalhes sobre cada lar, incluindo localização, fotos e  descrição das suas principais necessidades.
+**1.** O sistema vai permitir o cadastro de lares de longa permanência.<br/>
+**2.** O sistema vai permitir o cadastro de doadores (pessoas físicas ou jurídicas).<br/>
+**3.** Os doadores vão poder visualizar uma lista de lares cadastrados.<br/>
+**4.** O sistema vai permitir que os doadores façam doações financeiras para os lares.<br/>
+**4.** Os lares vão poder atualizar informações sobre suas necessidades e formas de doações aceitas.<br/>
+**5.** O site deve exibir detalhes sobre cada lar, incluindo localização, fotos e  descrição das suas principais necessidades.
 
 Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
 
