@@ -199,6 +199,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |04| Principais tecnologias a serem utilizadas devem ser : HTML, CSS e JS. |
 |05| Não pode ser desenvolvido com auxilio de terceiros que não fazem parte do grupo.   |
 |06| A solução do projeto deve se limitar a problemática do projeto, respeitando o tema proposto.   |
+|07| O sistema deve ser desenvolvido sem dependência de frameworks.   |
 
  
 
