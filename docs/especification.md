@@ -188,6 +188,11 @@ Lembre-se que cada requisito deve corresponder à uma e somente uma
 característica alvo da sua solução. Além disso, certifique-se de que
 todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
+> **Links Úteis**:
+> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
+> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
+
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
@@ -201,7 +206,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |06| A solução do projeto deve se limitar a problemática do projeto, respeitando o tema proposto.   |
 |07| O sistema deve ser desenvolvido sem dependência de frameworks.   |
 |08| A interface do sistema deverá ser amigável para usuários com pouca experiência tecnológica.   |
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
