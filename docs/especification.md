@@ -207,6 +207,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RNF-006  | O sistema deve permitir integração de pagamento através do PIX através de uma API. | ALTA       |
 | RNF-007  | O sistema deve ser desenvolvido utilizando apenas HTML, CSS e JS, sem frameworks. | ALTA       |
 | RNF-008  | O sistema deve ser compatível com os navegadores mais utilizados.     | ALTA       |
+| RNF-009 | A interface deve manter um padrão visual consistente em todas as páginas, incluindo cores, fontes, ícones e layout, para proporcionar uma experiência de usuário fluída e coesa.| ALTA       |
+| RNF-010 |O sistema deve ser capaz de carregar todas as páginas em no máximo 3 segundos em uma conexão de internet de 10 Mbps. | ALTA|
+| RNF-011 |A interface deve ser projetada para evitar sobrecarregar o usuário com excesso de informações na tela, utilizando organização visual eficiente (como agrupamento de dados) e evitando longas listas ou parágrafos de texto. | ALTA|
+  
 
 ## Restrições
 
