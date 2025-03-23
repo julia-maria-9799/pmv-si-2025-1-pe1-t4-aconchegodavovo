@@ -202,11 +202,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 | ID       | Descrição do Requisito                                                | Prioridade |
 |----------|-----------------------------------------------------------------------|------------|
-| RNF-001  | O sistema deve ter uma interface limpa e sem elementos desnecessários. | ALTA       |
-| RNF-002  | O sistema deve permitir a personalização do tema (escuro e claro).    | ALTA       |
-| RNF-003  | O sistema deve ter um tempo de inatividade mínimo para manutenção.    | ALTA       |
-| RNF-004  | O sistema deve permitir que os usuários façam logout de forma segura. | ALTA       |
-| RNF-005  | O sistema deve ser compatível com dispositivos de diferentes tamanhos de tela. | ALTA       |
+| RNF-001  | O sistema deve ser responsivo e acessível em dispositivos móveis.     | ALTA       |
+| RNF-004  | O sistema deve possuir uma interface intuitiva e amigável para usuários com pouca experiência tecnológica. | ALTA       |
+| RNF-006  | O sistema deve permitir integração de pagamento através do PIX através de uma API. | ALTA       |
+| RNF-007  | O sistema deve ser desenvolvido utilizando apenas HTML, CSS e JS, sem frameworks. | ALTA       |
+| RNF-008  | O sistema deve ser compatível com os navegadores mais utilizados.     | ALTA       |
 
 ## Restrições
 
