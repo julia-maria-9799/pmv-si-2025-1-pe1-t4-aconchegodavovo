@@ -160,38 +160,53 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade | 
-|------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
-
+| ID       | Descrição do Requisito                                             | Prioridade |
+|----------|--------------------------------------------------------------------|------------|
+| RF-001   | O sistema deve permitir o cadastro de ILPIs.                        | ALTA       |
+| RF-002   | O sistema deve permitir o login de ILPIs.                           | ALTA       |
+| RF-003   | O sistema deve permitir o logout de ILPIs.                          | ALTA       |
+| RF-004   | O sistema deve permitir o alterar a senha em caso de esquecimento das ILPIs.  | ALTA |
+| RF-006   | O sistema deve permitir o cadastro das informações do perfil da ILPI.   | ALTA       |
+| RF-007   | O sistema deve permitir visualizar as informações do perfil da ILPI.   | ALTA       |
+| RF-008   | O sistema deve permitir editar as informações do perfil da ILPI.   | ALTA       |
+| RF-016   | O sistema deve permitir a busca e filtragem de ILPIs por diferentes critérios. | ALTA  |
+| RF-017   | O sistema deve permitir a visualização das ILPIs cadastradas.      | ALTA       |
+| RF-011   | O sistema deve permitir o cadastro de planos de doação por ILPIs.   | ALTA       |
+| RF-025   | O sistema deve permitir a visualização das páginas de perfil dos ILPIs. | ALTA     |
+| RF-026   | O sistema deve permitir a visualização dos planos de doação das ILPIs. | ALTA     |
+| RF-027   | O sistema deve permitir a doação para ILPIs cadastradas.           | ALTA       |
+| RF-028   | O sistema deve permitir a visualização do histórico de doações realizadas. | MÉDIA  |
+| RF-005   | O sistema deve permitir a exclusão da conta da ILPI.                | MÉDIA      |
+| RF-009   | O sistema deve permitir deletar as informações do perfil da ILPI.   | MÉDIA       |
+| RF-010   | O sistema deve permitir a edição de informações do perfil da ILPI. | MÉDIA      |
+| RF-012   | O sistema deve permitir visualizar os planos cadastrados de doação.             | MÉDIA      |
+| RF-013   | O sistema deve permitir a edição dos planos de doação.              | MÉDIA      |
+| RF-014   | O sistema deve permitir a exclusão de planos de doação.             | MÉDIA      |
+| RF-015   | O sistema deve permitir a visualização do histórico de doações recebidas dos doadores. | MÉDIA |
+| RF-030   | O sistema deve permitir a alteração da foto de perfil da ILPI.     | BAIXA     |
+| RF-018   | O sistema deve permitir o cadastro de doadores.                     | ALTA       |
+| RF-019   | O sistema deve permitir a visualização das informações do perfil do doador.                     | ALTA       |
+| RF-022   | O sistema deve permitir o login de doadores.                        | ALTA       |
+| RF-023   | O sistema deve permitir o logout de doadores.                       | ALTA       |
+| RF-024   | O sistema deve permitir o alterar a senha em caso de esquecimento dos doadores.  | ALTA |
+| RF-029   | O sistema deve permitir integração de pagamento através do PIX.    | ALTA       |
+| RF-025   | O sistema deve permitir a visualização das páginas de perfil dos ILPIs. | ALTA     |
+| RF-026   | O sistema deve permitir a visualização dos planos de doação das ILPIs. | ALTA     |
+| RF-027   | O sistema deve permitir a doação para ILPIs cadastradas.           | ALTA       |
+| RF-020   | O sistema deve permitir a edição de informações do perfil do doador. | MÉDIA     |
+| RF-021   | O sistema deve permitir a exclusão da conta do doador.               | MÉDIA      |
+| RF-028   | O sistema deve permitir a visualização do histórico de doações realizadas. | MÉDIA  |
+| RF-031   | O sistema deve permitir a alteração da foto de perfil do doador.     | BAIXA     |
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+| ID       | Descrição do Requisito                                                | Prioridade |
+|----------|-----------------------------------------------------------------------|------------|
+| RNF-001  | O sistema deve ter uma interface limpa e sem elementos desnecessários. | ALTA       |
+| RNF-002  | O sistema deve permitir a personalização do tema (escuro e claro).    | ALTA       |
+| RNF-003  | O sistema deve ter um tempo de inatividade mínimo para manutenção.    | ALTA       |
+| RNF-004  | O sistema deve permitir que os usuários façam logout de forma segura. | ALTA       |
+| RNF-005  | O sistema deve ser compatível com dispositivos de diferentes tamanhos de tela. | ALTA       |
 
 ## Restrições
 
