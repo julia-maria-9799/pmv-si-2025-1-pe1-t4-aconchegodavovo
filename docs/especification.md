@@ -189,7 +189,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-022   | O sistema deve permitir o login de doadores.                        | ALTA       |
 | RF-023   | O sistema deve permitir o logout de doadores.                       | ALTA       |
 | RF-024   | O sistema deve permitir o alterar a senha em caso de esquecimento dos doadores.  | ALTA |
-| RF-029   | O sistema deve permitir integração de pagamento através do PIX.    | ALTA       |
+| RF-029   | O sistema deve permitir meios de pagamento.                          | ALTA       |
 | RF-025   | O sistema deve permitir a visualização das páginas de perfil dos ILPIs. | ALTA     |
 | RF-026   | O sistema deve permitir a visualização dos planos de doação das ILPIs. | ALTA     |
 | RF-027   | O sistema deve permitir a doação para ILPIs cadastradas.           | ALTA       |
