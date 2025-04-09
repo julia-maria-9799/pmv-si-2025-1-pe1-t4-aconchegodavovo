@@ -128,7 +128,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Doador           | Ter uma busca/filtro                     | Pesquisar as ILPIs                             |
 | Doador           | Visualizar os planos das ILPIs           | Realizar as doações                            |
 | Doador           | Visualizar os pagamentos realizados nas doações | Controle financeiro                     |
-
+| Doador           | Visualizar os agradecimentos | Verificar andamento das doações                   |
 
 ### Persona ILPI
 
@@ -151,6 +151,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | ILPI             | Visualizar os planos cadastrados          | Para verificá-los                               |
 | ILPI             | Deletar os planos                         | Para removê-los das opções de planos            |
 | ILPI             | Visualizar os pagamentos recebidos        | Para controle financeiro                        |
+| ILPI             | Criar os agradecimentos cadastrados         | Para serem expostas no sistema                   |
+| ILPI             | Visualizar os agradecimentos cadastrados  | Para verificá-los                        |
+| ILPI             | Editar os agradecimentos cadastrados      | Para atualizar os agradecimentos |
+| ILPI             | Deletar os agradecimentos cadastrados        | Para remover os agradecimentos expostos no sistema                       |
 
 
 
@@ -193,7 +197,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RF-029   | O sistema deve permitir a edição de informações do perfil do doador. | MÉDIA     |
 | RF-030   | O sistema deve permitir a exclusão da conta do doador.               | MÉDIA      |
 | RF-031   | O sistema deve permitir a alteração da foto de perfil do doador.     | BAIXA     |
-
+| RF-032   | O sistema deve permitir a cadastrar os agradecimentos.               | MÉDIA      |
+| RF-033   | O sistema deve permitir a editar os agradecimentos.               | MÉDIA      |
+| RF-034   | O sistema deve permitir a deletar os agradecimentos.               | MÉDIA      |
+| RF-035   | O sistema deve permitir a visualizar os agradecimentos.               | MÉDIA      |
 
 ### Requisitos não Funcionais
 
