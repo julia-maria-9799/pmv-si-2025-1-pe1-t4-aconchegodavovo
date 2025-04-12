@@ -7,9 +7,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ## User Flow
 
-![UserFlow](https://github.com/user-attachments/assets/1eb3007f-7f5c-4e35-b4d9-ee5f7ad30219)
-
-
+![UserFlow](https://github.com/user-attachments/assets/87ffdfbd-e0e6-4d33-87c2-57610f4cc217)
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
 
