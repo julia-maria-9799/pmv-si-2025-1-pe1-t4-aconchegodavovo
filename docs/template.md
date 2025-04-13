@@ -2,8 +2,6 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-Explique as guias de estilo utilizadas no seu projeto.
-
 ## Design
 
 Logos : A logo tem o importante papel de identificar e carregar a identidade do site, optou-se utiliza-la em locais chaves como menu e rodapé. No menu como ilustrada na primeira imagem, ela é utilizada ao lado esquerdo para não atrapalhar a navegação do usuario pelo menu. No rodapé conforme a segunda imagem, a logo utilizada se posiciona ao lado direito para trazer clareza e destaque. 
