@@ -60,9 +60,6 @@ Os ícones abaixo foram utilizados para indicar e identificar respectivamente as
 </p>
 
 
-Apresente os estilos CSS criados para cada um dos elementos apresentados.
-Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
-
 
 > **Links Úteis**:
 >
