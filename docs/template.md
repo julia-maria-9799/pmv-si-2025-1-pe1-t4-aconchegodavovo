@@ -11,14 +11,19 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ## Cores
 
-Apresente a paleta de cores que será utilizada. Uma ferramenta interessante para a criação de palestas de cores é o *Adobe Color* ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
+([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
 ![Paleta Usada no Mockup](https://github.com/user-attachments/assets/e1498bbf-9f8d-41e7-88fe-7e4cfa028312)
 
 
 ## Tipografia
 
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+Título da Página: A fonte utilizada no título da página corresponde a "Inter", bold e de tamanho maior para atrair a atenção imediata dos visitantes e transmitir o propósito principal do site de forma clara e impactante. 
 
+Título da Seção: Para os títulos da seção foi utilizada a fonte "Inter"  em peso menos  bold e tamanho menor com o objetivo de mater a hierarquia visual clara, facilitando a navegação e o entendimento do usuário. 
+
+Rótulos de Componentes : A fonte utilizada foi a "Inter" e seu objetivo é indicar aos usuarios onde clicar para interagir com o site, essencial para usabilidade e experiência do usuario.
+
+Corpo de texto: A fonte utilizada para corpo de texto foi a "Inter" emf formato mais leve e menor que os títulos, pois ela é excelente para a leitura de parágrafos longos. 
 
 ## Iconografia
 
