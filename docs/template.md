@@ -6,7 +6,9 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 ## Design
 
-Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo do sistema. Defina os menus padrões, entre outras coisas.
+Logos : A logo tem o importante papel de identificar e carregar a identidade do site, optou-se utiliza-la em locais chaves como menu e rodapé. No menu é utilizada a direita e no rodapé  utilizada a esquerda para melhor visibilidade. 
+![image](https://github.com/user-attachments/assets/25b7333e-5449-4fd0-b8cf-d58f9c533195)
+![image](https://github.com/user-attachments/assets/c7e358ee-5ab4-472f-a52d-b4010c8cc7bc)
 
 
 ## Cores
