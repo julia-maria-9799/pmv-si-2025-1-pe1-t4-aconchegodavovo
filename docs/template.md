@@ -29,7 +29,18 @@ Corpo de texto: A fonte utilizada para corpo de texto foi a "Inter" emf formato 
 
 ## Iconografia
 
-Defina os ícones que serão utilizados e suas respectivas funções.
+Perfil: Icone utilizado para indicar o usuario o caminho para entrar em seu perfil pessoa ![image](https://github.com/user-attachments/assets/6d3be85b-c53b-4641-a9aa-b763b497f149)
+
+Doador: Ícone utilizado para indicar e identificar o tipo de cadastro que será realizado, neste caso, cadastro de doador.![image](https://github.com/user-attachments/assets/81cb4f2f-5a6d-4c5f-a12b-768178a23a6d)
+
+Instituição: Ícone utilizado para indicar e identificar o tipo de cadastro que será realizado, neste caso, cadastro instituicional.  ![image](https://github.com/user-attachments/assets/874d1f25-475f-4b78-ad1d-6554ecc06086)
+
+Contato: Ícone de contato utilizado para indicar e identificar o email de contato para suporte e dúvida do site. 
+![image](https://github.com/user-attachments/assets/a70064d1-bd1e-4df5-80ef-4c3dfc7dc804)
+
+Redes Sociais: Os ícones abaixo foram utilizados para indicar e identificar respectivamente as seguintes rede sociais : Instagram, X e Facebook. 
+![image](https://github.com/user-attachments/assets/ab73e97c-367a-4b4e-b6a0-11aedefc5f53)
+
 
 Apresente os estilos CSS criados para cada um dos elementos apresentados.
 Outras seções podem ser adicionadas neste documento para apresentar padrões de componentes, de menus, etc.
