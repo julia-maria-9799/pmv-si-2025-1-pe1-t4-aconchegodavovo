@@ -1,9 +1,20 @@
 
 # Projeto de Interface
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+Landing Page: Esta é a porta de entrada do site, projetada para capturar a atenção do visitante imediatamente com uma visão clara da missão do projeto e opções para envolvimento direto, como doações ou cadastro.  Servindo para informar, envolver e guiar o usuário para a ação, seja através do cadastro ou doação, crucial para a mobilização de recursos. 
+Atendimento aos Requisitos: Atende aos requisitos de usabilidade e acessibilidade, garantindo que a informação seja fácil de entender e acessar.
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Opção de Cadastro : Aqui, o usuário escolhe entre se registrar como Doador ou como Instituição, uma funcionalidade crítica para personalizar a experiência subsequente no site. Utilizada para o  direcionamento eficaz para as telas de cadastro apropriadas, simplificando o processo de registro.
+Atendimento aos Requisitos: A tela cumpre o requisito de flexibilidade e escalabilidade ao permitir diferentes tipos de usuários dentro do sistema.
+
+Cadastro do Doador: Os potenciais doadores fornecem informações pessoais necessárias para a criação de uma conta. As funcionalidades como: Coleta dados como nome, CPF, e-mail e telefone,são fundamentais para a integração do usuário ao sistema.
+Atendimento aos Requisitos: Cadastro de informações. 
+
+Cadastro de ILPI: As ILPIs inserem informações para estabelecer sua presença no sistema, permitindo-lhes receber doações e divulgar necessidades por meio do  registro simplificado que captura informações essenciais, facilitando a administração de doações. 
+Atendimento aos Requisitos: Cadastro de informações. 
+
+Listagem de Instituições : Usuários buscam e visualizam instituições cadastradas para escolher para quem doar. Atraves da busca por nome ou município e visualização de informações detalhadas das ILPIs. 
+Atendimento aos Requisitos: A funcionalidade aumenta a visibilidade das ILPIs e apoia a transparência, aspectos essenciais para a confiança e o engajamento do usuário.
 
 
 ## User Flow
