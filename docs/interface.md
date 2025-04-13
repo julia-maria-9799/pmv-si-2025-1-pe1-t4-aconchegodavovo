@@ -1,27 +1,40 @@
 
 # Projeto de Interface
 
-Landing Page: Esta é a porta de entrada do site, projetada para capturar a atenção do visitante imediatamente com uma visão clara da missão do projeto e opções para envolvimento direto, como doações ou cadastro.  Servindo para informar, envolver e guiar o usuário para a ação, seja através do cadastro ou doação, crucial para a mobilização de recursos. 
-Atendimento aos Requisitos: Atende aos requisitos de usabilidade e acessibilidade, garantindo que a informação seja fácil de entender e acessar.
-![Landing Page](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe1-t4-aconchegodavovo/raw/c06655fa01deead02be558693aa03745b204130e/Landing%20Page.png)
+## Landing Page
+Esta é a porta de entrada do site, projetada para capturar a atenção do visitante imediatamente com uma visão clara da missão do projeto e opções para envolvimento direto, como doações ou cadastro. Servindo para informar, envolver e guiar o usuário para a ação, seja através do cadastro ou doação, crucial para a mobilização de recursos.  
+Atendimento aos Requisitos: Atende aos requisitos de usabilidade e acessibilidade, garantindo que a informação seja fácil de entender e acessar.  
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe1-t4-aconchegodavovo/raw/c06655fa01deead02be558693aa03745b204130e/Landing%20Page.png" width="50%">
+</p>
 
-Opção de Cadastro : Aqui, o usuário escolhe entre se registrar como Doador ou como Instituição, uma funcionalidade crítica para personalizar a experiência subsequente no site. Utilizada para o  direcionamento eficaz para as telas de cadastro apropriadas, simplificando o processo de registro.
-Atendimento aos Requisitos: A tela cumpre o requisito de flexibilidade e escalabilidade ao permitir diferentes tipos de usuários dentro do sistema.
-![Escolher Tipo de Cadastro](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe1-t4aconchegodavovo/raw/c06655fa01deead02be558693aa03745b204130e/Escolher%20Tipo%20de%20Cadastro.png)
+## Opção de Cadastro
+Aqui, o usuário escolhe entre se registrar como Doador ou como Instituição, uma funcionalidade crítica para personalizar a experiência subsequente no site. Utilizada para o direcionamento eficaz para as telas de cadastro apropriadas, simplificando o processo de registro.  
+Atendimento aos Requisitos: A tela cumpre o requisito de flexibilidade e escalabilidade ao permitir diferentes tipos de usuários dentro do sistema.  
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe1-t4aconchegodavovo/raw/c06655fa01deead02be558693aa03745b204130e/Escolher%20Tipo%20de%20Cadastro.png" width="50%">
+</p>
 
+## Cadastro do Doador
+Os potenciais doadores fornecem informações pessoais necessárias para a criação de uma conta. As funcionalidades como: Coleta dados como nome, CPF, e-mail e telefone, são fundamentais para a integração do usuário ao sistema.  
+Atendimento aos Requisitos: Cadastro de informações.  
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe1-t4-aconchegodavovo/raw/c06655fa01deead02be558693aa03745b204130e/Cadastro%20do%20Doador.png" width="50%">
+</p>
 
-Cadastro do Doador: Os potenciais doadores fornecem informações pessoais necessárias para a criação de uma conta. As funcionalidades como: Coleta dados como nome, CPF, e-mail e telefone,são fundamentais para a integração do usuário ao sistema.
-Atendimento aos Requisitos: Cadastro de informações. 
-![Cadastro do Doador](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe1-t4-aconchegodavovo/raw/c06655fa01deead02be558693aa03745b204130e/Cadastro%20do%20Doador.png)
+## Cadastro de ILPI
+As ILPIs inserem informações para estabelecer sua presença no sistema, permitindo-lhes receber doações e divulgar necessidades por meio do registro simplificado que captura informações essenciais, facilitando a administração de doações.  
+Atendimento aos Requisitos: Cadastro de informações.  
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe1-t4-aconchegodavovo/raw/f21009dea0cdb836814ef567e6fbe231fed57359/Cadastro%20ILPI%202.png" width="50%">
+</p>
 
-Cadastro de ILPI: As ILPIs inserem informações para estabelecer sua presença no sistema, permitindo-lhes receber doações e divulgar necessidades por meio do  registro simplificado que captura informações essenciais, facilitando a administração de doações. 
-Atendimento aos Requisitos: Cadastro de informações. 
-![Cadastro ILPI 2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe1-t4-aconchegodavovo/raw/f21009dea0cdb836814ef567e6fbe231fed57359/Cadastro%20ILPI%202.png)
-
-
-Listagem de Instituições : Usuários buscam e visualizam instituições cadastradas para escolher para quem doar. Atraves da busca por nome ou município e visualização de informações detalhadas das ILPIs. 
-Atendimento aos Requisitos: A funcionalidade aumenta a visibilidade das ILPIs e apoia a transparência, aspectos essenciais para a confiança e o engajamento do usuário.
-![Listagem de Instituições](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe1-t4-aconchegodavovo/raw/f21009dea0cdb836814ef567e6fbe231fed57359/Listagem%20de%20Institui%C3%A7%C3%B5es.png)
+## Listagem de Instituições
+Usuários buscam e visualizam instituições cadastradas para escolher para quem doar. Através da busca por nome ou município e visualização de informações detalhadas das ILPIs.  
+Atendimento aos Requisitos: A funcionalidade aumenta a visibilidade das ILPIs e apoia a transparência, aspectos essenciais para a confiança e o engajamento do usuário.  
+<p align="center">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2025-1-pe1-t4-aconchegodavovo/raw/f21009dea0cdb836814ef567e6fbe231fed57359/Listagem%20de%20Institui%C3%A7%C3%B5es.png" width="50%">
+</p>
 
 
 
