@@ -6,7 +6,7 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 ## Design
 
-Logos : A logo tem o importante papel de identificar e carregar a identidade do site, optou-se utiliza-la em locais chaves como menu e rodapé. No menu é utilizada a direita e no rodapé  utilizada a esquerda para melhor visibilidade. 
+Logos : A logo tem o importante papel de identificar e carregar a identidade do site, optou-se utiliza-la em locais chaves como menu e rodapé. No menu como ilustrada na primeira imagem, ela é utilizada ao lado esquerdo para não atrapalhar a navegação do usuario pelo menu. No rodapé conforme a segunda imagem, a logo utilizada se posiciona ao lado direito para trazer clareza e destaque. 
 ![image](https://github.com/user-attachments/assets/25b7333e-5449-4fd0-b8cf-d58f9c533195)
 ![image](https://github.com/user-attachments/assets/c7e358ee-5ab4-472f-a52d-b4010c8cc7bc)
 
