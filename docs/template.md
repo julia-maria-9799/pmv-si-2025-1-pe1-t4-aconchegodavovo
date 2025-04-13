@@ -11,7 +11,7 @@ Logos : A logo tem o importante papel de identificar e carregar a identidade do 
 
 ## Cores
 
-([Paleta Usada no Mockup]((https://coolors.co/0b3c5d-177ec3-a9d6e5-ededed-ec3746))).
+([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
 ![Paleta Usada no Mockup](https://github.com/user-attachments/assets/e1498bbf-9f8d-41e7-88fe-7e4cfa028312)
 
 
