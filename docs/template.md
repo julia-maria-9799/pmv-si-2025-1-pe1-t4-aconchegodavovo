@@ -25,6 +25,9 @@ Rótulos de Componentes : A fonte utilizada foi a "Inter" e seu objetivo é indi
 
 Corpo de texto: A fonte utilizada para corpo de texto foi a "Inter" emf formato mais leve e menor que os títulos, pois ela é excelente para a leitura de parágrafos longos. 
 
+![image](https://github.com/user-attachments/assets/90844f26-98b8-42db-85e2-ba809828aed8)
+
+
 ## Iconografia
 
 ### Perfil
