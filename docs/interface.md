@@ -1,7 +1,6 @@
 
 # Projeto de Interface
 
-# Projeto de Interface
 
 ## Landing Page
 Esta é a porta de entrada do site, projetada para capturar a atenção do visitante imediatamente com uma visão clara da missão do projeto e opções para envolvimento direto, como doações ou cadastro. Servindo para informar, envolver e guiar o usuário para a ação, seja através do cadastro ou doação, crucial para a mobilização de recursos.  
