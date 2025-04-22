@@ -16,7 +16,6 @@ O projeto "Aconchego da Vovó" consiste no desenvolvimento de um site que conect
 
 * Brenda Linhares Freitas
 * Camila Santos Gomes
-* Fabiana Martins do Prato
 * Júlia Maria Coutinho Corrêa
 * Rafael Simões Amaral
 * Raissa Barbieri Fernandes Silva
