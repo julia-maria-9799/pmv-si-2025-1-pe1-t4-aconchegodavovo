@@ -12,7 +12,8 @@ Logos : A logo tem o importante papel de identificar e carregar a identidade do 
 ## Cores
 
 ([https://color.adobe.com/pt/create/color-wheel](https://color.adobe.com/pt/create/color-wheel)).
-![Paleta Usada no Mockup](https://github.com/user-attachments/assets/e1498bbf-9f8d-41e7-88fe-7e4cfa028312)
+
+![Paleta Usada no Mockup](https://github.com/user-attachments/assets/c2cfdee6-e710-495e-9193-efe60eb4efe2)
 
 
 ## Tipografia
