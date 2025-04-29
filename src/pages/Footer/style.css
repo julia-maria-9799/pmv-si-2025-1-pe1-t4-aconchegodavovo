@@ -9,8 +9,8 @@
   }
   
   .footer {
-    background-color: #083757;
-    color: white;
+    background-color: var(--azul-2);
+    color: var(--branco);
     padding: 20px 0;
   }
   
@@ -40,13 +40,13 @@
   }
   
   .social a {
-    color: white;
+    color: var(--branco);
     font-size: 20px;
     transition: color 0.3s;
   }
   
   .social a:hover {
-    color: #ccc;
+    color: var(--branco);
   }
   
   .social .copyright {
@@ -76,7 +76,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
-    border-left: 1px solid #ffffff66; /* linha vertical */
+    border-left: 1px solid var(--cinza-claro); /* linha vertical */
     padding-left: 15px;
   }
   
@@ -84,18 +84,18 @@
     display: flex;
     align-items: center;
     gap: 10px;
-    border-left: 1px solid #ffffff66;
+    border-left: 1px solid var(--cinza-claro);
     padding-left: 15px;
     min-height: 50px; /* aumenta a altura da linha */
   }
   
   .contact-text span {
-    color: #7cb2e8;
+    color: var(--azul-0);
     font-size: 14px;
   }
   
   .contact-text a {
-    color: white;
+    color: var(--branco);
     text-decoration: none;
     font-size: 14px;
   }
