@@ -2,7 +2,7 @@ body {
     background-color: var(--branco);
 }
 
-div {
+*{
     margin: 0;
     padding: 0;
 }

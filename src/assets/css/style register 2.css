@@ -2,7 +2,7 @@ body {
     background-color: var(--branco);
 }
 
-div {
+*{
     margin: 0;
     padding: 0;
 }
@@ -75,21 +75,15 @@ input {
     color: var(--branco);
 }
 
-#next:hover {
-    background-color: var(--azul-3);
-    transition: 0.5s;
-}
-
 #return {
     margin-top: 20px;
-    background-color: var(--cinza-claro);
+    border: 2px solid var(--azul-2);
     color: var(--azul-2);
 }
 
-#return:hover {
-    background-color: #DDDD;
-    color: var(--azul-3);
-    transition: 0.5s;
+.btn:hover {
+    font-size: 22px;
+    transition: 0.2s;
 }
 
 /* Margem */
