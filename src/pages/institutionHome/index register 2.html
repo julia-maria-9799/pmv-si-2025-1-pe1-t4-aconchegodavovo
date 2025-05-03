@@ -10,7 +10,9 @@
     <!-- CSS -->
     <link rel="stylesheet" href="../../assets/css/global.css">
     <link rel="stylesheet" href="../../assets/css/style header.css">
-    <link rel="stylesheet" href="../../assets/css/style forgotpass.css">
+    <link rel="stylesheet" href="../../assets/css/style register 2.css">
+    <!-- JavaScript -->
+    <link rel="stylesheet" href="../../assets/js/register 2.js">
 </head>
 
 <body>
@@ -25,31 +27,41 @@
     </nav>
 
     <!-- Imagem da esquerda -->
-    <img id="imgesqueci" src="../../assets/img/img-esqueci-a-senha.svg" alt="Cuidadora e um idoso felizes">
+    <img id="imgecadas2" src="../../assets/img/img-cadastro-ilpi-2.svg" alt="Cuidadora e uma idosa felizes">
 
     <!-- Conteúdo da direita -->
     <div class="container">
         <form action="#">
             <!-- Texto -->
             <div class="margin">
-                <h2>Esqueci a senha</h2>
-                <p>Digite seu e-mail e enviaremos um e-mail para você</p>
-                <p>informando como recuperá-la.</p>
+                <h2>Cadastro</h2>
+                <p>Cadastre e comece a fazer a diferença na vida de</p>
+                <p>um idoso!</p>
             </div>
 
-            <!-- Input email -->
+            <!-- Inputs -->
             <div class="margin">
-                <input type="email" required placeholder="Email">
+                <form>
+                    <input class="inputs" type="text" placeholder="CNPJ">
+                    <br>
+
+                    <input class="inputs" type="text" placeholder="Telefone">
+                    <br>
+
+                    <input class="inputs" type="text" required placeholder="Tipo de Instituição">
+                    <br>
+
+                    <input class="inputs" type="text" required placeholder="Cargo Responsável">
+                    <br>
+
+                    <input type="date" required placeholder="Data da Fundação">
+                </form>
             </div>
 
-            <!-- Lembrou a senha? -->
-            <div class="margin" id="register">
-                <p>Lembrou a senha? <a id="entrar" href="./index.html">Entrar</a></p>
-            </div>
-
-            <!-- Botão enviar -->
+            <!-- Botões -->
             <div class="margin">
-                <button id="submit" type="submit">Enviar</button>
+                <button class="btn" id="next" type="button">Próximo</button><br>
+                <button class="btn" id="return" type="button">Voltar</button>
             </div>
         </form>
     </div>

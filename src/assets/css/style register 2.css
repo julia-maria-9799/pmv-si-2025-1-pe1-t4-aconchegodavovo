@@ -8,7 +8,7 @@ div {
 }
 
 /* Imagem da esquerda */
-#imgesqueci {
+#imgecadas2 {
     float: left;
     width: 50%;
 }
@@ -20,21 +20,21 @@ div {
     text-align: center;
 }
 
-/* Esqueci a senha */
+/* Cadastro [texto] */
 h2 {
     font-weight: bold;
     font-size: 45px;
     margin-bottom: 10px;
 }
 
-/* Digite seu e-mail... */
+/* Cadastre e comece a... */
 p {
     font-size: 16px;
     color: var(--cinza-mediano);
 }
 
 /* Input */
-input[type=email] {
+input {
     background-color: #FEFEFE;
     border: 1px solid #D3D3D3;
     border-radius: 5px;
@@ -43,7 +43,7 @@ input[type=email] {
     display: inline-block;
     font-size: 20px;
     padding: 15px;
-    width: 403px;
+    width: 609px;
     height: 60px;
     text-decoration: none;
 }
@@ -53,38 +53,42 @@ input[type=email] {
     font-weight: lighter;
 }
 
-/* Lembrou a senha? */
-#entrar {
-    font-weight: bold;
-    font-size: 16px;
-    color: var(--azul-2);
-    text-decoration: none;
+.inputs {
+    margin-bottom: 10px;
 }
 
-#entrar:hover {
-    text-decoration: underline;
-}
-
-/* Botão enviar */
-#submit {
-    background-color: var(--azul-2);
+/* Botões */
+.btn {
     border: none;
     border-radius: 15px;
-    color: var(--branco);
     cursor: pointer;
-    display: inline-block;
     font-size: 20px;
     font-weight: bold;
-    width: 399px;
-    height: 60px;
     text-align: center;
     text-decoration: none;
+    width: 399px;
+    height: 60px;
 }
 
-#submit:hover {
-    background-color: transparent;
-    border: 1px solid var(--azul-2);
+#next {
+    background-color: var(--azul-2);
+    color: var(--branco);
+}
+
+#next:hover {
+    background-color: var(--azul-3);
+    transition: 0.5s;
+}
+
+#return {
+    margin-top: 20px;
+    background-color: var(--cinza-claro);
     color: var(--azul-2);
+}
+
+#return:hover {
+    background-color: #DDDD;
+    color: var(--azul-3);
     transition: 0.5s;
 }
 
