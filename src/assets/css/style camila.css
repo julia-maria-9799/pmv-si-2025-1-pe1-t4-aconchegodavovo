@@ -28,6 +28,12 @@ body {
     height: inherit;
 }
 
+/* Png erro [Payment error] */
+#pngerro {
+    width: 120px;
+    height: 120px;
+}
+
 /* H2 [texto] */
 h2 {
     font-weight: bold;
@@ -39,6 +45,12 @@ h2 {
 p {
     font-size: 16px;
     color: var(--cinza-mediano);
+}
+
+.p-payment-error {
+    font-weight: lighter;
+    font-size: 25px;
+    color: var(--azul-2)
 }
 
 /* Input */
@@ -146,6 +158,12 @@ input {
     background-color: transparent;
     border: 2px solid var(--azul-2);
     color: var(--azul-2);
+}
+
+.payment-error {    /* [Payment Error] */
+    width: 300px;
+    height: 80px;
+    font-size: 32px;
 }
 
 /* Margem */
