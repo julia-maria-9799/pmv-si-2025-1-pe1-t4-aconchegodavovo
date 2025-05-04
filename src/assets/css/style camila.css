@@ -11,11 +11,11 @@ body {
 /* Imagem da esquerda */
 #imgassets {
     float: left;
-    width: 50%;
+    height: 100%;
 }
 
 .parent {
-    height: 830.14px;
+    height: 831px;
 }
 
 /* Parte da direita */
