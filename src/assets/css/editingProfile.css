@@ -101,9 +101,9 @@
   
   .form-section {
     flex: 1;
-    max-width: 900px; /* Controla a largura */
+    max-width: 1100px;
     padding: 2rem;
-    margin: 0 auto; /* Centraliza */
+    margin: 0 auto;
     color: #665f5f;
   }
   
@@ -141,10 +141,9 @@ select::placeholder {
   /* Botão "Próximo" menor e com a cor correta */
   .botoes-rodape {
     display: flex;
-    justify-content: space-between;
-    margin-top: 300px;
+    gap: 41rem; /* Espaço entre os botões */
+    margin-top: 1rem;
   }
-  
   .botao-salvar {
     background-color: #0B3C5D;
     color: #ffff;
@@ -203,31 +202,38 @@ select::placeholder {
   }
   
   .descricao-ilpi {
-    width: 609px;
-    height: 150px;
-    background-color: #FEFEFE;
-    border: 1px solid #D3D3D3;
+    width: 100%;
+    max-width: 1000px;
+    height: 350px;
+    background-color: #ffffff;
+    border: 2px solid #ccc;
     border-radius: 5px;
     box-sizing: border-box;
     color: var(--cinza-escuro);
-    font-size: 20px;
+    font-size: 15px;
     padding: 15px;
     resize: none;
     font-family: "Inter", sans-serif;
+    margin-bottom: 10px;
+  }
+
+.descricao-ilpi::placeholder {
+  color: #a9a9a9; /* ou #666, #bbb, etc. conforme o contraste desejado */
 }
 
 .input-file-label {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    width: 609px;
-    height: 60px;
-    background-color: #FEFEFE;
-    border: 1px solid #D3D3D3;
+    width: 100%;
+    max-width: 1000px;
+    height: 55px;
+    background-color: #ffffff;
+    border: 2px solid #ccc;
     border-radius: 5px;
-    font-size: 20px;
+    font-size: 15px;
     color: var(--cinza-mediano);
-    padding: 0 15px;
+    padding: 15px;
     cursor: pointer;
     position: relative;
     font-family: "Inter", sans-serif;
@@ -246,4 +252,15 @@ select::placeholder {
     height: 100%;
     width: 100%;
     cursor: pointer;
+}
+.input-file-label-1 {
+width: 100%;
+max-width: 1000px;
+background-color: #ffffff;
+color: #665f5f; /* cinza claro para o texto */
+padding: 15px;
+border: 2px solid #ccc;
+border-radius: 5px;
+margin-bottom: 15px; /* Espaço entre os campos */
+font-size: 15px;
 }
