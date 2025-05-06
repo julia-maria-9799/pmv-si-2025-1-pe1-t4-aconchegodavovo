@@ -53,6 +53,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-024| Desenvolver tela de Agradecimentos 			| Raissa | ... |
 |RF-025| Desenvolver tela de Cadastrar Agradecimentos 	| Raissa | ... |
 |RF-026| Desenvolver tela de Editar Agradecimentos 		| Raissa | ... |
+|RF-027| Desenvolver Drop Down					 		| Rafael | dropDownMenu.js |
 
 ## Descrição das estruturas:
 
