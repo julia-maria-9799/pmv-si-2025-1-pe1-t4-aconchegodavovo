@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Editar Cadastro - Aconchego da Vovó</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="logo-container">
+      <img src="logo-vovo.png" alt="Logo Aconchego da Vovó" class="logo" />
+      <h1>Aconchego da Vovó</h1>
+    </div>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Histórico de Doações</a>
+      <span class="avatar"></span>
+    </nav>
+  </header>
+
+  <div class="layout">
+    <aside>
+      <h2>Configurações</h2>
+      <button class="btn-primary">✏️ Editar cadastro</button>
+      <button class="btn-danger">🗑️ Excluir conta</button>
+    </aside>
+
+    <main>
+      <h2>Editar Cadastro</h2>
+      <form>
+        <input type="text" placeholder="Nome completo" />
+        <input type="text" placeholder="CPF" />
+        <input type="text" placeholder="Telefone" />
+        <input type="text" placeholder="Data de Nascimento" />
+        <input type="email" placeholder="E-mail" />
+        <input type="password" placeholder="Senha" />
+        <input type="password" placeholder="Repetir Senha" />
+        
+        <div class="form-actions">
+          <button type="button" class="btn-cancel">Cancelar</button>
+          <button type="submit" class="btn-save">Salvar</button>
+        </div>
+      </form>
+    </main>
+  </div>
+
+</body>
+</html>
