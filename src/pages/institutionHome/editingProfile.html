@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="../../assets/css/global.css" />
   <link rel="stylesheet" href="../../assets/css/style header.css" />
   <link rel="stylesheet" href="../../assets/css/dropDownMenu.css" />
-  <link rel="stylesheet" href="../../assets/css/editingRegistrationPage1.css" />
+  <link rel="stylesheet" href="../../assets/css/editingProfile.css" />
 </head>
 <body>
   <!-- Header reutilizado -->
@@ -45,19 +45,20 @@
       <span>Configurações</span>
     </div>
   
-    <a href="#" class="menu-item active">
-      <img src="../../assets/img/icon-lapis-cinza.svg" alt="Editar Cadastro" />
-      Editar cadastro
-    </a>
-  
     <a href="#" class="menu-item">
-      <img src="../../assets/img/icon-lapis-cinza.svg" alt="Editar Perfil" />
-      Editar perfil
-    </a>
-  
-    <a href="#" class="menu-item">
-      <img src="../../assets/img/icon-lixeira-cinza.svg" alt="Excluir Conta" />
-      Excluir conta
+        <img src="../../assets/img/icon-lapis-cinza.svg" alt="Editar Cadastro" />
+        Editar cadastro
+      </a>
+      
+      <a href="#" class="menu-item active">
+        <img src="../../assets/img/icon-lapis-cinza.svg" alt="Editar Perfil" />
+        Editar perfil
+      </a>
+      
+      <a href="#" class="menu-item">
+        <img src="../../assets/img/icon-lixeira-cinza.svg" alt="Excluir Conta" />
+        Excluir conta
+      </a>
     </a>
   </div>
   </aside>
@@ -65,26 +66,18 @@
   <section class="form-section">
     <h1>Editar Cadastro</h1>
     <form>
-      <label for="nome">Nome completo</label>
-      <input type="text" id="nome" placeholder="Nome completo" value="James" />
+        <input class="inputs input-register2" type="text" required placeholder="Nome da Instituição"><br>
+
+        <textarea class="inputs input-register2 descricao-ilpi" required placeholder="Descrição"></textarea><br>
+
+
+        <label class="input-file-label descricao-ilpi">
+          Foto
+          <input type="file" accept="image/*" class="input-file" required>
   
-      <label for="cnpj">CNPJ</label>
-      <input type="text" id="cnpj" placeholder="00.000.000/0000-00" />
-  
-      <label for="cargo">Cargo Responsável</label>
-      <input type="text" id="cargo" placeholder="Cargo Responsável" />
-  
-      <label for="responsavel">Responsável Legal</label>
-      <input type="text" id="responsavel" placeholder="Responsável Legal" value="James Bond" />
-  
-      <label for="fundacao">Data da Fundação</label>
-      <input type="date" id="fundacao" placeholder="00/00/0000" />
-  
-      <label for="instituicao">Tipo de Instituição</label>
-      <input type="text" id="instituicao" value="Instituição de Longa Permanência para Idosos" />
-  
-      <div class="botao-proximo">
-        <a href="editingRegistrationPage2.html" class="botao-proximo-link">Próximo</a>
+      <div class="botoes-rodape">
+        <button class="botao-salvar">Salvar</button>
+        <button class="botao-excluir">Excluir</button>
       </div>
     </form>
   </section>

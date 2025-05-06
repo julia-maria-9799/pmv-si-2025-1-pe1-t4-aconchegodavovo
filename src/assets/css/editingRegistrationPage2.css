@@ -139,28 +139,54 @@ select::placeholder {
 }
   
   /* Botão "Próximo" menor e com a cor correta */
-  .botao-proximo {
+  .botoes-rodape {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
-    justify-content: flex-end;
-    width: 22%;
-    max-width: 500px;
   }
-  .botao-proximo-link {
-    background-color: #0B3C5D;
-    color: white;
+  
+  .botao-voltar {
+    background-color: #fff;
+    color: #0B3C5D;
+    border: 2px solid #0B3C5D;
     padding: 10px 60px;
     border-radius: 3px;
     font-weight: bold;
+    cursor: pointer;
     text-decoration: none;
     display: inline-block;
-    transition: background 0.3s ease;
+    text-align: center;
   }
-  .botao-proximo-link:hover {
+  
+  .botao-voltar:hover {
+    background-color: #0B3C5D;
+    color: white;
+  }
+  
+  
+  .botao-proximo {
+    background-color: #0B3C5D;
+    color: #fff;
+    padding: 10px 60px;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .botao-proximo:hover {
     background-color: #092f4b;
   }
+  
+  
+  .form-section button:hover {
+    background-color: #092f4b;
+  }
+  
 
+  
   /* Título */
   h1 {
     color: #0B3C5D;
@@ -171,12 +197,10 @@ select::placeholder {
   button {
     background-color: #0B3C5D;
     color: white;
-    padding: 0.6rem 1.5rem;
     border: none;
     border-radius: 6px;
     font-size: 1rem;
     cursor: pointer;
-    transition: background 0.3s ease;
   }
   
   button:hover {

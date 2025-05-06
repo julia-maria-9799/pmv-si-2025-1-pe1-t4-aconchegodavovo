@@ -139,28 +139,44 @@ select::placeholder {
 }
   
   /* Botão "Próximo" menor e com a cor correta */
-  .botao-proximo {
+  .botoes-rodape {
     display: flex;
     justify-content: space-between;
     margin-top: 20px;
-    justify-content: flex-end;
-    width: 22%;
-    max-width: 500px;
   }
-  .botao-proximo-link {
+  
+  .botao-salvar {
     background-color: #0B3C5D;
-    color: white;
+    color: #ffff;
+    border: 2px solid #0B3C5D;
     padding: 10px 60px;
     border-radius: 3px;
     font-weight: bold;
+    cursor: pointer;
     text-decoration: none;
     display: inline-block;
-    transition: background 0.3s ease;
+    text-align: center;
   }
-  .botao-proximo-link:hover {
-    background-color: #092f4b;
+  
+ 
+  
+  
+  .botao-excluir {
+    background-color: #EC3746;
+    color: #fff;
+    padding: 10px 60px;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    cursor: pointer;
   }
-
+  
+  .botao-excluir:hover {
+    background-color: #ffffff;
+    color: #EC3746;
+    border: 2px solid #EC3746;
+  }
+  
   /* Título */
   h1 {
     color: #0B3C5D;
@@ -171,7 +187,6 @@ select::placeholder {
   button {
     background-color: #0B3C5D;
     color: white;
-    padding: 0.6rem 1.5rem;
     border: none;
     border-radius: 6px;
     font-size: 1rem;
