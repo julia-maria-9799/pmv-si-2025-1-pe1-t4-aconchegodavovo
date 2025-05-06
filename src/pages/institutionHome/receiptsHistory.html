@@ -8,7 +8,8 @@
   <!-- CSS -->
   <link rel="stylesheet" href="../../assets/css/global.css" />
   <link rel="stylesheet" href="../../assets/css/style header.css" />
-  <link rel="stylesheet" href="../../assets/css/style rafael.css" />
+  <link rel="stylesheet" href="../../assets/css/receiptsHistory.css" />
+  <link rel="stylesheet" href="../../assets/css/dropDownMenu.css" />
 </head>
 <body>
   <!-- Header -->
@@ -19,9 +20,19 @@
       <a href="#" class="active">Perfil</a>
       <a href="#" class="active">Planos</a>
       <a href="index.html" class="active">Home</a>
-      <a href="#"><img src="../../assets/img/icon-nav-account.svg" /></a>
+      <a href="#" onclick="toggleDropdown()">
+        <img src="../../assets/img/icon-nav-account.svg" class="user-icon" />
+      </a>
     </div>
   </nav>
+
+  <div id="userDropdown" class="dropdown-menu" style="display: none;">
+    <a href="../../pages/institutionHome/editingRegistrationPage1.html">
+        Configurações da conta <img src="../../assets/img/icon-editar.svg" />
+      </a>
+      
+    <a href="#">Sair <img src="../../assets/img/icon-sair.svg" /></a>
+  </div>
 
   <!-- Conteúdo principal -->
   <main class="main-container">
@@ -38,13 +49,11 @@
     </div>
 
     <!-- Tabela -->
-    <div class="tabela">
-      <div class="linha titulo">
+    <div class="titulo">
         <span>Data</span>
         <span>Valor</span>
       </div>
-
-      <!-- Linhas com dados -->
+      
       <div class="linha">
         <span>XX/XX/XXXX</span>
         <span>R$99,99</span>
@@ -57,8 +66,31 @@
         <span>XX/XX/XXXX</span>
         <span>R$99,99</span>
       </div>
-      <!-- Repita conforme necessário -->
-    </div>
+      <div class="linha">
+        <span>XX/XX/XXXX</span>
+        <span>R$99,99</span>
+      </div>
+      <div class="linha">
+        <span>XX/XX/XXXX</span>
+        <span>R$99,99</span>
+      </div>
+      <div class="linha">
+        <span>XX/XX/XXXX</span>
+        <span>R$99,99</span>
+      </div>
+      <div class="linha">
+        <span>XX/XX/XXXX</span>
+        <span>R$99,99</span>
+      </div>
+      <div class="linha">
+        <span>XX/XX/XXXX</span>
+        <span>R$99,99</span>
+      </div>
+      <div class="linha">
+        <span>XX/XX/XXXX</span>
+        <span>R$99,99</span>
+      </div>
   </main>
+  <script src="../../assets/js/dropDownMenu.js"></script>
 </body>
 </html>
