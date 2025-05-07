@@ -4,39 +4,6 @@ body {
     background-color: #f4f4f4;
   }
   
-  header {
-    background-color: #003865;
-    color: white;
-    padding: 16px 32px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-  .logo-container {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-  }
-  
-  .logo {
-    height: 40px;
-  }
-  
-  header nav a {
-    color: white;
-    text-decoration: none;
-    margin-left: 24px;
-  }
-  
-  .avatar {
-    width: 24px;
-    height: 24px;
-    background: white;
-    border-radius: 50%;
-    display: inline-block;
-  }
-  
   .layout {
     display: flex;
     max-width: 1100px;

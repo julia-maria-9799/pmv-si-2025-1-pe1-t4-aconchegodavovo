@@ -4,48 +4,7 @@ body {
     background-color: #f7f7f7;
   }
   
-  header {
-    background-color: #003865;
-    color: white;
-    padding: 16px 32px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-  .logo-container {
-    display: flex;
-    align-items: center;
-  }
-  
-  .logo {
-    height: 40px;
-  }
-  
-  /* Removido o texto do cabeçalho */
-  .logo-container h1 {
-    display: none;
-  }
-  
-  nav a {
-    color: white;
-    text-decoration: none;
-    margin-left: 24px;
-  }
-  
-  nav a.active {
-    text-decoration: underline;
-  }
-  
-  .profile-icon {
-    width: 24px;
-    height: 24px;
-    background: white;
-    border-radius: 50%;
-    display: inline-block;
-    margin-left: 20px;
-  }
-  
+  /* Removido o texto do cabeçalho */  
   .content {
     max-width: 1000px;
     margin: 40px auto;
