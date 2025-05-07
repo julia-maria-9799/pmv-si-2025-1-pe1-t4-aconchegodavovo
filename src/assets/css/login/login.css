@@ -46,6 +46,7 @@ p {
 }
 
 input {
+    outline: none;
     background-color: #FEFEFE;
     border: 1px solid #D3D3D3;
     border-radius: 5px;
@@ -112,19 +113,24 @@ input {
     font-size: 20px;
 }
 
-.btn:hover {
-    font-size: 22px;
-    transition: 0.2s;
+.btn-azul-1 {
+    background-color: var(--azul-1);
+    color: var(--branco);
 }
 
-.btn-escuro {
+.btn-azul-1:hover {
+    background-color: var(--azul-1-hover);
+    transition: 0.5s;
+}
+
+.btn-azul-2 {
     background-color: var(--azul-2);
     color: var(--branco);
 }
 
-.btn-claro {
-    background-color: var(--azul-1);
-    color: var(--branco);
+.btn-azul-2:hover {
+    background-color: var(--azul-2-hover);
+    transition: 0.5s;
 }
 
 .btn-margin {

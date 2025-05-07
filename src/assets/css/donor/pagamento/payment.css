@@ -156,14 +156,14 @@ body {
     font-size: 20px;
 }
 
-.btn:hover {
-    font-size: 22px;
-    transition: 0.2s;
-}
-
-.btn-escuro {
+.btn-azul-2 {
     background-color: var(--azul-2);
     color: var(--branco);
+}
+
+.btn-azul-2:hover {
+    background-color: var(--azul-2-hover);
+    transition: 0.5s;
 }
 
 .btn-border {
