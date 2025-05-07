@@ -101,13 +101,13 @@
   
   .form-section {
     flex: 1;
-    max-width: 1100px;
+    max-width: 900px;
     padding: 2rem;
     margin: 0 auto;
     color: #665f5f;
   }
   
-  /* Ajusta o título "Editar Cadastro" */
+  /* Ajusta o título "Editar Perfil" */
   .form-section h1 {
     text-align: left;
     font-weight: bold;
@@ -141,7 +141,7 @@ select::placeholder {
   /* Botão "Próximo" menor e com a cor correta */
   .botoes-rodape {
     display: flex;
-    gap: 41rem; /* Espaço entre os botões */
+    gap: 31rem; /* Espaço entre os botões */
     margin-top: 1rem;
   }
   .botao-salvar {
