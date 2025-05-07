@@ -26,9 +26,34 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito | Responsável | Artefato Criado |
-|------|------------------------|------------|-----------------|
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | João | index.html |
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês | Ana Paula | cadastro-noticia.html |
+|------|------------------------|-------------|-----------------|
+|RF-001| Desenvolver tela de Landing Page         		| Raissa | index.html |
+|RF-002| Desenvolver tela de Tipo de Cadastro     		| Brenda | typeOfRegistration.html |
+|RF-003| Desenvolver tela de Cadastro Page 1      		| Júlia  | registrationILPIPage1.html |
+|RF-004| Desenvolver tela de Cadastro ILPI Page 2 		| Camila | registrationILPIPage2.html |
+|RF-005| Desenvolver tela de Cadastro ILPI Page 3 		| Brenda | registrationILPIPage3.html |
+|RF-006| Desenvolver tela de Cadastro ILPI Page 4 		| Rafael | registrationILPIPage4.html |
+|RF-007| Desenvolver tela de Login                		| Camila | login.html |
+|RF-008| Desenvolver tela de Esqueci a Senha      		| Camila | forgot-password.html |
+|RF-009| Desenvolver tela de Listagem das Instituições 	| Júlia  | index.html |
+|RF-010| Desenvolver tela de Histórico de Doações 		| Júlia  | index.html |
+|RF-011| Desenvolver tela de Editar Cadastro 			| Júlia  | index.html |
+|RF-012| Desenvolver tela de Perfil das Intituições 	| Brenda | profileOfInstitutions.html |
+|RF-013| Desenvolver tela de Pagamento 					| Camila | payment.html |
+|RF-014| Desenvolver tela de Erro de Pagamento 			| Camila | payment-error.html |
+|RF-015| Desenvolver tela de Sucesso de Pagamento 		| Brenda | success.html |
+|RF-016| Desenvolver tela de Histórico de Recebimentos 	| Rafael | receiptsHistory.html |
+|RF-017| Desenvolver tela de Meus Planos 				| Brenda | ... |
+|RF-018| Desenvolver tela de Cadastrar novo Plano 		| Camila | new-plan.html |
+|RF-019| Desenvolver tela de Editar Plano 				| Brenda | ... |
+|RF-020| Desenvolver tela de Editar Cadastro Page 1 	| Rafael | editingRegistrationPage1.html |
+|RF-021| Desenvolver tela de Editar Cadastro Page 2		| Rafael | editingRegistrationPage2.html |
+|RF-022| Desenvolver tela de Editar Cadastro Page 3 	| Rafael | editingRegistrationPage3.html |
+|RF-023| Desenvolver tela de Editar Perfil 				| Rafael | editingProfile.html |
+|RF-024| Desenvolver tela de Agradecimentos 			| Raissa | ... |
+|RF-025| Desenvolver tela de Cadastrar Agradecimentos 	| Raissa | ... |
+|RF-026| Desenvolver tela de Editar Agradecimentos 		| Raissa | ... |
+|RF-027| Desenvolver Drop Down					 		| Rafael | dropDownMenu.js |
 
 ## Descrição das estruturas:
 
